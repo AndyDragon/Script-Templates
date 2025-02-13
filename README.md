@@ -5,3 +5,5 @@
 ## Script templates for Vero Scripts, Feature Logging and other apps
 
 Separated this out of the Vero Scripts application folder.
+
+The templates will be compiled into flat JSON files for andydragon's app and compiled into vuejs components for mingos's vuejs app.
