@@ -27,5 +27,4 @@ jobs:
           BITBUCKET_USERNAME: ${{ secrets.BITBUCKET_USERNAME }}
           BITBUCKET_APP_PASSWORD: ${{ secrets.BITBUCKET_APP_PASSWORD }}
         run: |
-          bb pullrequest create --title "New PR from GitHub Action" --source master --destination master
-          
+          bb pullrequest create --title "New PR from GitHub Action" --source master --destination master --repo mingos/snap-templates/templates
