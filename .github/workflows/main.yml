@@ -13,18 +13,24 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
-
-      - name: Install Bitbucket CLI
-        run: |
-          python -m pip install bitbucket-cli
-
       - name: Create Pull Request on Bitbucket
         env:
           BITBUCKET_USERNAME: ${{ secrets.BITBUCKET_USERNAME }}
           BITBUCKET_APP_PASSWORD: ${{ secrets.BITBUCKET_APP_PASSWORD }}
         run: |
-          bb pullrequest create --title "New PR from GitHub Action" --source master --destination main --repo mingos/snap-templates
+          curl -X POST -u $BITBUCKET_USERNAME:$BITBUCKET_APP_PASSWORD \
+          -H "Content-Type: application/json" \
+          -d '{
+                "title": "New PR from GitHub Action",
+                "source": {
+                  "branch": {
+                    "name": "master"
+                  }
+                },
+                "destination": {
+                  "branch": {
+                    "name": "main"
+                  }
+                }
+              }' \
+          https://api.bitbucket.org/2.0/repositories/mingos/snap-templates/pullrequests
