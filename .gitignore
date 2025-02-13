@@ -1,0 +1,7 @@
+Script Templates/PrepareTemplates/.vs/
+Script Templates/PrepareTemplates/bin/
+Script Templates/PrepareTemplates/obj/
+Script Templates/PrepareTemplates/*.csproj.user
+Script Templates/PrepareTemplates-linux
+Script Templates/PrepareTemplates-mac
+Script Templates/PrepareTemplates.exe
