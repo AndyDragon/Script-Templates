@@ -18,7 +18,7 @@ jobs:
           BITBUCKET_USERNAME: ${{ secrets.BITBUCKET_USERNAME }}
           BITBUCKET_APP_PASSWORD: ${{ secrets.BITBUCKET_APP_PASSWORD }}
         run: |
-          curl -X POST -u $BITBUCKET_USERNAME:$BITBUCKET_APP_PASSWORD \
+          response=$(curl -X POST -u $BITBUCKET_USERNAME:$BITBUCKET_APP_PASSWORD \
           -H "Content-Type: application/json" \
           -d '{
                 "title": "New PR from GitHub Action",
@@ -33,4 +33,5 @@ jobs:
                   }
                 }
               }' \
-          https://api.bitbucket.org/2.0/repositories/mingos/snap-templates/pullrequests
+          https://api.bitbucket.org/2.0/repositories/mingos/snap-templates/pullrequests)
+          echo "Response: $response"
