@@ -129,23 +129,6 @@
       ]
     },
     {
-      "name": "other:bench_wednesday",
-      "templates": [
-        {
-          "name": "comment",
-          "template": "@%%USERNAME%% Hi [[USER'S FIRST NAME]], %%YOURFIRSTNAME%% @%%YOURNAME%% here, commenting on your magnificent feature, I’m very happy to showcase your amazing bench. 🫶🏽 Many congratulations and welcome onboard of our feed. [{PERSONALIZED MESSAGE}] It's truly a work of art and thanks a lot for sharing it! 🤍\n"
-        },
-        {
-          "name": "feature",
-          "template": "#%%PAGENAME%%\nCONGRATULATIONS\n🌟 🎉 [[USER'S FIRST NAME]] @%%USERNAME%% 🎉 🌟\nFeatured by @%%YOURNAME%%\nEnjoy a lovely Wednesday🫶\n🌟🫶🌟\n#%%PAGENAME%%_%%USERNAME%%\n•\n🌟🫶🌟\n#Sky #Tranquility #Winter #TranquilScene #ScenicsNature #bench\n.\n"
-        },
-        {
-          "name": "original post",
-          "template": "🤍⭐️Congratulations [[USER'S FIRST NAME]], [[DESCRIPTION]] has been featured on @%%PAGENAME%% ⭐️🤍"
-        }
-      ]
-    },
-    {
       "name": "other:birdsinflight",
       "templates": [
         {
@@ -877,7 +860,7 @@
         },
         {
           "name": "feature",
-          "template": "• #snap_%%PAGENAME%% •\n•\n[[CAMERA AND FILM]]\n\n⭐️ Featured %%MEMBERLEVEL%%: @%%USERNAME%% ⭐️\n•\n__________________________________\n ✨ CONGRATULATIONS ✨\n__________________________________\n•\nSelected by: @%%YOURNAME%%\n%%STAFFLEVEL%% on @snap_%%PAGENAME%%\n•\nJoin us in our fresh, creative and supportive community on VERO. Please follow @snap_community\n•\nCC Snap Community Owner\n@snap_owner\n•\nPlease check out @snap_kingdom for more of our Snap_community pages.\n•\n#snap_community #35mm #filmphotography\n#vero #filmphotography35mm #pinholecamera #120mm\n#verofamily #shootfilm #shootwithfilm #kodakfilm #analogcamera\n#analogvibes #filmisnotdead #analogphotography #kodacolor\n#verofriends\n•\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n•\n"
+          "template": "• #snap_%%PAGENAME%% •\n•\n[[CAMERA AND FILM]]\n\n⭐️ Featured %%MEMBERLEVEL%%: @%%USERNAME%% ⭐️\n•\n__________________________________\n ✨ CONGRATULATIONS ✨\n__________________________________\n•\nSelected by: @%%YOURNAME%%\n%%STAFFLEVEL%% on @snap_%%PAGENAME%%\n•\nJoin us in our fresh, creative and supportive community on VERO. Please follow @snap_community\n•\nCC Snap Community Owner\n@snap_owner\n•\nPlease check out @snap_kingdom for more of our Snap_community pages.\n•\n#snap_community #filmphotography #vero #lensculture #filmphotography35mm\n#pinholecamera #verofamily #shootfilm #shootwithfilm #kodakfilm\n#analogcamera #analogvibes #filmisnotdead #analogphotography #verofriends\n#grainisgood #defendanalog #filmisalive #staybrokeshootfilm\n•\nFor internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n•\n"
         },
         {
           "name": "original post",
@@ -1226,7 +1209,7 @@
         },
         {
           "name": "feature",
-          "template": "• #snap_%%PAGENAME%% •\n\n⭐️ Featured %%MEMBERLEVEL%%: @%%USERNAME%% ⭐️\n•\n__________________________________\n ✨ CONGRATULATIONS ✨\n__________________________________\n•\nSelected by: %%YOURFIRSTNAME%% @%%YOURNAME%%\n%%STAFFLEVEL%% on @snap_%%PAGENAME%%\n•\nJoin us in our fresh, creative and supportive community on VERO. Please follow @snap_community\n•\nCC Snap Community Owner\n@snap_owner\n•\nPlease check out @snap_kingdom for more of our Snap_community pages.\n•\n#snap_community\n#vero\n#verofamily\n#verofriends\n•\nPAGE HASHTAGS\n•\n#photography #nightphotography #light #night #longexpo #longexposure\n#longexposurephotography #lightjunkies #photo #silkwater #waterfall\n#milkyway #shutterspeed #astro\n•\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n•\n"
+          "template": "• #snap_%%PAGENAME%% •\n\n⭐️ Featured %%MEMBERLEVEL%%: @%%USERNAME%% ⭐️\n•\n__________________________________\n ✨ CONGRATULATIONS ✨\n__________________________________\n•\nSelected by: %%YOURFIRSTNAME%% @%%YOURNAME%%\n%%STAFFLEVEL%% on @snap_%%PAGENAME%%\n•\nJoin us in our fresh, creative and supportive community on VERO. Please follow @snap_community\n•\nCC Snap Community Owner\n@snap_owner\n•\nPlease check out @snap_kingdom for more of our Snap_community pages.\n•\n#snap_community\n#vero\n#verofamily\n#verofriends\n•\nPAGE HASHTAGS\n•\n#photography #nightphotography #light #night #longexpo #longexposure\n#longexposurephotography #lightjunkies #photo #silkwater #waterfall\n#milkyway #shutterspeed #astro #seascapes\n•\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n•\n"
         },
         {
           "name": "first comment",
