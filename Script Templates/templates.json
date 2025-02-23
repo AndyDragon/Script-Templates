@@ -239,7 +239,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n\n#abandoned_addiction #abandon_af #abandonedafterdark #abandon_seekers #grime_lords #bandorebelz #abandoned_excellence #abandoned_addict #bando #bandochasers #abandoned__world #abandoned_america #abandoned #urbex #urbexphotography #urbexworld #urbanexploration #abandonedplaces #decay #urbandecay #lostplaces #renegade_abandoned\n\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n\n#abandoned_addiction #abandonedafterdark #grime_lords #abandoned_excellence #abandoned_america #abandoned #urbexphotography #abandonedplaces #decay #urbandecay\n\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -256,7 +256,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%% and #snap_surreal\n\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n\n#abstractart #contemporaryart #abstractbuff #abstract_artist #abstract_lovers #color_art #abstract_capture #icm_gallery #icm_world #icm_photomag #icm_planet\n\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%% and #snap_surreal\n\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n\n#abstractart #contemporaryart #abstractbuff #abstract_artist #abstract_lovers #abstract_capture #icm_gallery #icm_world #icm_photomag #icm_planet\n\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -642,23 +642,6 @@
         {
           "name": "comment",
           "template": "🏆 Congratulations on your %%MEMBERLEVEL%% feature @%%USERNAME%% \nIt’s wonderful to see your photo in our gallery! Thanks for sharing it with us and Keep Tagging: #snap_%%PAGENAME%%  \nWe look forward to seeing more of your work!! ❤️☕️❤️\n"
-        },
-        {
-          "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n\n#latteart #coffee #coffeefreak #coffee_addict #barista #espresso #coffeetime #cafe #stilllife #foodphotography #coffeebean #morning_coffee #coffeemug #coffeecup #coffeeporn\n\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
-        },
-        {
-          "name": "original post",
-          "template": "✨FEATURE SELECTION ☕️\n"
-        }
-      ]
-    },
-    {
-      "name": "snap:coffee_ai",
-      "templates": [
-        {
-          "name": "comment",
-          "template": "🏆 Congratulations on your %%MEMBERLEVEL%% feature @%%USERNAME%%\nIt’s wonderful to see your photo in our gallery! Thanks for sharing it with us and Keep Tagging: #snap_%%FULLPAGENAME%%\nWe look forward to seeing more of your work!! ❤️☕️❤️\n"
         },
         {
           "name": "feature",
