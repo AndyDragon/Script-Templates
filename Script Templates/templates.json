@@ -788,7 +788,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n\n#dof #street #closeup #lensculture #nature #selectivefocus #macro #bokeh #depthoffield #focusonforeground #macrophotography\n\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n\n#dof #street #closeup #lensculture #nature #bokeh #depthoffield #focusonforeground #macrophotography\n\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -1880,11 +1880,11 @@
     },
     {
       "name": "snap:member feature",
-      "template": "✨ Featured on Snap %%PAGETITLE%% ✨\n* With your latest feature, we would like to CONGRATULATE you on your NEW Snap Membership 💐💫\nThat’s an awesome achievement 🎖️ Welcome to the Snap Family!\n✨ Please add your Snap Membership level to your bio!\n* For any membership inquiries, please send a connection request to: @snap_community_member\n"
+      "template": "* With your latest feature, you are a NEW Snap Member 💐💫\nWelcome to the Snap Family!\n✨ Remember to add your Snap Membership level to your bio.\n* For any membership inquiries, send a connection request to: @snap_community_member\n"
     },
     {
       "name": "snap:member original post",
-      "template": "✨ Featured on Snap %%PAGETITLE%% ✨\n* With your latest feature, we would like to CONGRATULATE you on your NEW Snap Membership 💐💫\nThat’s an awesome achievement 🎖️ Welcome to the Snap Family!\n✨ Please add your Snap Membership level to your bio!\n* For any membership inquiries, please send a connection request to: @snap_community_member\n"
+      "template": "✨ Featured on Snap %%PAGETITLE%% ✨\n* With your latest feature, we would like to CONGRATULATE you on your NEW Snap Membership 💐💫\nThat’s an awesome achievement 🎖️\n✨ Please add your Snap Membership level to your bio!\n* For any membership inquiries, send a connection request to: @snap_community_member\n"
     },
     {
       "name": "snap:member",
@@ -1892,11 +1892,11 @@
     },
     {
       "name": "snap:vip member feature",
-      "template": "✨ Featured on Snap %%PAGETITLE%% ✨\n* With your latest feature, we would like to CONGRATULATE you on your NEW Snap VIP Membership 💐💫\nThat’s an awesome achievement 🎖️\n✨ Please add your Snap VIP membership level to your bio!\n* For any membership inquiries, please send a connection request to: @snap_community_member\n"
+      "template": "* With your latest feature, you are a NEW Snap VIP Member 💐💫\n✨ Remember to add your Snap Membership level to your bio.\n* For any membership inquiries, send a connection request to: @snap_community_member\n"
     },
     {
       "name": "snap:vip member original post",
-      "template": "✨ Featured on Snap %%PAGETITLE%% ✨\n* With your latest feature, we would like to CONGRATULATE you on your NEW Snap VIP Membership 💐💫\nThat’s an awesome achievement 🎖️\n✨ Please add your Snap VIP membership level to your bio!\n* For any membership inquiries, please send a connection request to: @snap_community_member\n"
+      "template": "✨ Featured on Snap %%PAGETITLE%% ✨\n* With your latest feature, we would like to CONGRATULATE you on your NEW Snap VIP Membership 💐💫\nThat’s an awesome achievement 🎖️\n✨ Please add your Snap Membership level to your bio!\n* For any membership inquiries, send a connection request to: @snap_community_member\n"
     },
     {
       "name": "snap:vip_member",
