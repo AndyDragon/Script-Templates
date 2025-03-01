@@ -146,23 +146,6 @@
       ]
     },
     {
-      "name": "other:birdworld",
-      "templates": [
-        {
-          "name": "comment",
-          "template": "[[PERSONALIZED MESSAGE]] Great work @%%USERNAME%% ✨🕊️✨\n"
-        },
-        {
-          "name": "feature",
-          "template": "@%%USERNAME%%\n\n✨featured photographer ✨\n\n🕊✨⁣⁣⁣⁣⁣⁣⁣🕊✨🌍✨🕊✨🕊\n⁣ ⁣\n🕊 Species:  ⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣[[SPECIES]]\n⁣\n⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣#birdworld\n#bird_world ⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣\n#birdsofvero⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣\n#birds⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣\n#wildlife⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣\n#birdwatching⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣\n#birdphotography⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣\n#birdlover⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣\n#naturephotography⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣\n#snap_birds⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣\n#podium_wildlife⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣\n#featherlover⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣\n#bird\n⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣#pictasbirds⁣\n\nselected by  @%%YOURNAME%%\n\n#bwf_%%USERNAME%%\n"
-        },
-        {
-          "name": "original post",
-          "template": "Featured! ✨🌞✨"
-        }
-      ]
-    },
-    {
       "name": "other:desert_worlds",
       "templates": [
         {
@@ -176,23 +159,6 @@
         {
           "name": "original post",
           "template": "🔆🏜️ Featured @%%PAGENAME%% 🏜️🔆"
-        }
-      ]
-    },
-    {
-      "name": "other:fresh_breeze_club",
-      "templates": [
-        {
-          "name": "comment",
-          "template": "Fresh Breeze Photography Club\n@%%PAGENAME%%\n✨✨Congratulations on your feature! [[PERSONALIZED MESSAGE]] Thank you for tagging our hub and sharing your beautiful art with us! ✨✨\n"
-        },
-        {
-          "name": "feature",
-          "template": " #%%PAGEHASH%%\n\n🌟 FEATURED ARTIST: @%%USERNAME%%\n\n\n🌌Congratulations🌌\n\n☑️Selected by moderator @%%YOURNAME%%\n\nFor the chance to be featured in our gallery,  use the hashtag #%%PAGEHASH%% ☺\n\n🌟 It doesn't matter what the theme of your photos is, the main thing is your talent.\n🙏🏻 Good luck!\n\n\n#fbpc_featured_%%USERNAME%%\n\n[{PHOTO HASH TAGS}]\n.\n"
-        },
-        {
-          "name": "original post",
-          "template": "🌟🌟FEATURED!!🌟🌟"
         }
       ]
     },
@@ -1747,7 +1713,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#animalsofvero #animalwildlife #bestanimalpics #discover_wildlife #nature #wildlife #wildlife_captures #wildlife_photography #wildlife_shots #wildlife_vision\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#snap #snap_community #vero #verofamily #verofriends #photography #wildlife #animalwildlife #wildlife_photography #nature #lensculture\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",

@@ -1,5 +1,6 @@
 {
     "hub": "other",
     "page": "birdworld",
-    "title": "Bird World"
+    "title": "Bird World",
+    "tagOnly": true
 }
