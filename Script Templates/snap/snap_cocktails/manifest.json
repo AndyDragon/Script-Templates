@@ -1,5 +1,6 @@
 {
     "hub": "snap",
     "page": "cocktails",
-    "title": "Cocktails"
+    "title": "Cocktails",
+    "tagOnly": true
 }

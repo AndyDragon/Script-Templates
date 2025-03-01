@@ -247,6 +247,15 @@ class Program
                 warnings.Add(string.Format("          {0}", line));
             }
         }
+        if (pageName.StartsWith("snap_") && fileName == "feature")
+        {
+            lines = result.Split(new[] { '\n', '\r' }, StringSplitOptions.TrimEntries);
+            lines = lines.Take(lines.Length - 1).ToArray();
+            if (lines.Any(line => string.IsNullOrEmpty(line)))
+            {
+                warnings.Add(string.Format("PREP0101: The page '{0}' has a blank line in the body of the feature template", pageName));
+            }
+        }
     }
 }
 

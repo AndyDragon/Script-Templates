@@ -1,5 +1,6 @@
 {
     "hub": "snap",
     "page": "thailand",
-    "title": "Thailand"
+    "title": "Thailand",
+    "tagOnly": true
 }
