@@ -535,7 +535,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "@tannhausercreative ✨🌟🌟✨      CONGRATULATIONS on your feature today with @snap_%%PAGENAME%%, [[USER'S FIRST NAME]]! ✨🏆✨ Thank you for sharing your beautiful cat portrait, and please continue tagging us at #snap_%%PAGENAME%% for the chance of more features! 🌟👍🙏😻🌟\n"
+          "template": "✨🌟🌟✨      CONGRATULATIONS on your feature today with @snap_%%PAGENAME%%, [[USER'S FIRST NAME]]! ✨🏆✨ Thank you for sharing your beautiful cat portrait, and please continue tagging us at #snap_%%PAGENAME%% for the chance of more features! 🌟👍🙏😻🌟\n"
         },
         {
           "name": "feature",
