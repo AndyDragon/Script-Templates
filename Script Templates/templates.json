@@ -394,6 +394,10 @@
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#asia #asiaphotography #asiapictures #asiatravel #asiavacations #asiaadventures #asiacity #exploreasia #travelasia #sculpture\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
+          "name": "first comment",
+          "template": "✨Congratulations on your First Snap ⛩️Asia⛩️ Feature @%%USERNAME%%✨\n✨Thank you so much for sharing your beautiful work with us✨\n"
+        },
+        {
           "name": "original post",
           "template": "✨Featured✨Congratulations🎊\nKeep tagging your amazing pictures!"
         }
