@@ -1,5 +1,7 @@
 {
     "hub": "other",
     "page": "unseen_worlds",
-    "title": "Unseen Worlds"
+    "title": "Unseen Worlds",
+    "hashtag": "unseen_worlds",
+    "defunctPage": true
 }

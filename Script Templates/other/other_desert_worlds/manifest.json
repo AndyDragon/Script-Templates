@@ -1,5 +1,7 @@
 {
     "hub": "other",
     "page": "desert_worlds",
-    "title": "Desert Worlds"
+    "title": "Desert Worlds",
+    "hashtag": "desert_worlds",
+    "defunctPage": true
 }

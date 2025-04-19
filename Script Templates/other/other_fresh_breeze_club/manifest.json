@@ -3,5 +3,6 @@
     "page": "fresh_breeze_club",
     "title": "Fresh Breeze Club",
     "hashtag": "freshbreezeclub",
-    "tagOnly": true
+    "tagOnly": true,
+    "defunctPage": true
 }

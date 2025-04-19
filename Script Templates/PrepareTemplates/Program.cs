@@ -61,6 +61,7 @@ class Program
                                     Title = manifest?.Title,
                                     HashTag = manifest?.HashTag,
                                     ExcludeTag = manifest?.ExcludeTag,
+                                    DefunctPage = manifest?.DefunctPage,
                                 };
                                 if (!pageCatalog.Tags.TryGetValue(pageHub, out IList<PageTag>? value))
                                 {
@@ -87,7 +88,7 @@ class Program
                                 Title = manifest?.Title,
                                 HashTag = manifest?.HashTag,
                                 ExcludeTag = manifest?.ExcludeTag,
-
+                                DefunctPage = manifest?.DefunctPage,
                             };
                             if (!pageCatalog.Hubs.TryGetValue(pageHub, out IList<Page>? value))
                             {
@@ -302,6 +303,9 @@ class Page
 
     [JsonProperty(propertyName: "excludeTag", NullValueHandling = NullValueHandling.Ignore, DefaultValueHandling = DefaultValueHandling.Ignore)]
     public bool? ExcludeTag { get; set; }
+
+    [JsonProperty(propertyName: "defunctPage", NullValueHandling = NullValueHandling.Ignore, DefaultValueHandling = DefaultValueHandling.Ignore)]
+    public bool? DefunctPage { get; set; }
 }
 
 class PageTag
@@ -325,6 +329,9 @@ class PageTag
 
     [JsonProperty(propertyName: "excludeTag", NullValueHandling = NullValueHandling.Ignore, DefaultValueHandling = DefaultValueHandling.Ignore)]
     public bool? ExcludeTag { get; set; }
+
+    [JsonProperty(propertyName: "defunctPage", NullValueHandling = NullValueHandling.Ignore, DefaultValueHandling = DefaultValueHandling.Ignore)]
+    public bool? DefunctPage { get; set; }
 }
 
 class Manifest
@@ -353,6 +360,9 @@ class Manifest
 
     [JsonProperty(propertyName: "tagOnly")]
     public bool? TagOnly { get; set; }
+
+    [JsonProperty(propertyName: "defunctPage")]
+    public bool? DefunctPage { get; set; }
 }
 
 class TemplateCatalog

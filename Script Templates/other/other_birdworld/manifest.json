@@ -2,5 +2,7 @@
     "hub": "other",
     "page": "birdworld",
     "title": "Bird World",
-    "tagOnly": true
+    "hashtag": "birdworld",
+    "tagOnly": true,
+    "defunctPage": true
 }
