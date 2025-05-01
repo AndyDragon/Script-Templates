@@ -1696,7 +1696,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🏆 Congratulations on your Snap Member feature, @%%USERNAME%% \nIt’s wonderful to see your photo in our gallery! Thanks for sharing it with us and Keep Tagging: #snap_%%PAGENAME%% \nWe look forward to seeing more of your work!! ❤️🤍💙\n"
+          "template": "🏆 Congratulations on your %%MEMBERLEVEL%% feature, @%%USERNAME%%\nIt’s wonderful to see your photo in our gallery! Thanks for sharing it with us and Keep Tagging: #snap_%%PAGENAME%%\nWe look forward to seeing more of your work!! ❤️🤍💙\n"
         },
         {
           "name": "feature",
