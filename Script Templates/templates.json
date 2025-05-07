@@ -1304,7 +1304,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨Congratulations✨✨ on your amazing feature @%%USERNAME%% ! \n✨✨Thank you for tagging us in your work #snap_%%PAGENAME%%! ✨✨\n"
+          "template": "✨💫✨Congratulations on your Snap Nightshots Feature @%%USERNAME%% 🎊. Keep tagging #snap_%%PAGENAME%% and sharing your amazing photos with us 🧡!\n"
         },
         {
           "name": "feature",
