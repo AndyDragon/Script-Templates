@@ -1,4 +1,4 @@
-#snap_%%FULLPAGENAME%%
+#snap_%%PAGENAME%%_ai
 .
  Featured AI %%MEMBERLEVEL%% @%%USERNAME%%
  ✨ C O N G R A T U L A T I O N S ✨
@@ -28,6 +28,6 @@ For your membership questions and level validations
  For internal use only!
 #snap_%%PAGENAME%%_%%USERNAME%%
 #snap_featured_%%USERNAME%%
-#snap_%%FULLPAGENAME%%_%%USERNAME%%
+#snap_%%PAGENAME%%_ai_%%USERNAME%%
 .
 .
