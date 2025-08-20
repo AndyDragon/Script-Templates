@@ -197,6 +197,210 @@
       ]
     },
     {
+      "name": "pictas:animals",
+      "templates": [
+        {
+          "name": "comment",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "feature",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "original post",
+          "template": "to be completed..."
+        }
+      ]
+    },
+    {
+      "name": "pictas:art",
+      "templates": [
+        {
+          "name": "comment",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "feature",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "original post",
+          "template": "to be completed..."
+        }
+      ]
+    },
+    {
+      "name": "pictas:birds",
+      "templates": [
+        {
+          "name": "comment",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "feature",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "original post",
+          "template": "to be completed..."
+        }
+      ]
+    },
+    {
+      "name": "pictas:drone",
+      "templates": [
+        {
+          "name": "comment",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "feature",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "original post",
+          "template": "to be completed..."
+        }
+      ]
+    },
+    {
+      "name": "pictas:food",
+      "templates": [
+        {
+          "name": "comment",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "feature",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "original post",
+          "template": "to be completed..."
+        }
+      ]
+    },
+    {
+      "name": "pictas:macro",
+      "templates": [
+        {
+          "name": "comment",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "feature",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "original post",
+          "template": "to be completed..."
+        }
+      ]
+    },
+    {
+      "name": "pictas:monochrome",
+      "templates": [
+        {
+          "name": "comment",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "feature",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "original post",
+          "template": "to be completed..."
+        }
+      ]
+    },
+    {
+      "name": "pictas:moody",
+      "templates": [
+        {
+          "name": "comment",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "feature",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "original post",
+          "template": "to be completed..."
+        }
+      ]
+    },
+    {
+      "name": "pictas:nature",
+      "templates": [
+        {
+          "name": "comment",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "feature",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "original post",
+          "template": "to be completed..."
+        }
+      ]
+    },
+    {
+      "name": "pictas:portrait",
+      "templates": [
+        {
+          "name": "comment",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "feature",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "original post",
+          "template": "to be completed..."
+        }
+      ]
+    },
+    {
+      "name": "pictas:street",
+      "templates": [
+        {
+          "name": "comment",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "feature",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "original post",
+          "template": "to be completed..."
+        }
+      ]
+    },
+    {
+      "name": "pictas:travel",
+      "templates": [
+        {
+          "name": "comment",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "feature",
+          "template": "to be completed...\n"
+        },
+        {
+          "name": "original post",
+          "template": "to be completed..."
+        }
+      ]
+    },
+    {
       "name": "snap:abandoned",
       "templates": [
         {
@@ -205,7 +409,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#abandoned_addiction #abandonedafterdark #grime_lords #abandoned_excellence #abandoned_america #abandoned #urbexphotography #abandonedplaces #decay #urbandecay\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#abandoned_addiction #abandonedafterdark #grime_lords #abandoned_excellence #abandoned_america #abandoned #urbexphotography #abandonedplaces #decay #urbandecay\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -222,7 +426,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%% and #snap_surreal\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow.\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#abstractart #contemporaryart #abstractbuff #abstract_artist #abstract_lovers #icm_community #abstract_capture #abstract #icm_gallery #icm_world_nature #icm_photomag #icm #surrealcollage #surreal_photography #surreal_art\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%% and #snap_surreal\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow.\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#abstractart #contemporaryart #abstractbuff #abstract_artist #abstract_lovers #icm_community #abstract_capture #abstract #icm_gallery #icm_world_nature #icm_photomag #icm #surrealcollage #surreal_photography #surreal_art\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -239,7 +443,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%% and #snap_surreal\n.\n Featured AI %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow.\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#ai #ai_generated #ai_art_community #ai_art_gallery #ai_artist #ai_artwork #digitalart #vero_ai_creators #abstractbuff #abstract_artist #abstract #abstract_capture #icm_gallery #icm_world #icm_photomag #surrealcollage #surreal_photography #surreal\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%% and #snap_surreal\n.\n Featured AI %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow.\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#ai #ai_generated #ai_art_community #ai_art_gallery #ai_artist #ai_artwork #digitalart #vero_ai_creators #abstractbuff #abstract_artist #abstract #abstract_capture #icm_gallery #icm_world #icm_photomag #surrealcollage #surreal_photography #surreal\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -256,7 +460,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#ai #ai_generated #ai_art_community #ai_art_gallery #ai_artist #ai_artwork #digitalart #vero_ai_creators\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#ai #ai_generated #ai_art_community #ai_art_gallery #ai_artist #ai_artwork #digitalart #vero_ai_creators\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -277,7 +481,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#allblackphotography #blackbackground #blackphotography #darktheme #blackfeed #gothicblack #inblack #matteblack #onlyblack #blackartwork #darkportrait #darkness\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#allblackphotography #blackbackground #blackphotography #darktheme #blackfeed #gothicblack #inblack #matteblack #onlyblack #blackartwork #darkportrait #darkness\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -294,7 +498,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#snap #snap_community #vero #verofamily #verofriends #nature #allnature #photooftheday #naturelovers #natureperfection #lensculture #macro #wildlife #landscape #naturephotography #verophotographers\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#snap #snap_community #vero #verofamily #verofriends #nature #allnature #photooftheday #naturelovers #natureperfection #lensculture #macro #wildlife #landscape #naturephotography #verophotographers\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -315,7 +519,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#team #athlete #people #competition #sports #sport #leisureactivity #teamsport #extremesport\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#team #athlete #people #competition #sports #sport #leisureactivity #teamsport #extremesport\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -336,7 +540,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#forestnation #allkindoftrees #exploretreetops #treephotography #forestmasters #treesofvero #treesinthecity #bestforestmood #treesofvero #tranquilscene #nature\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#forestnation #allkindoftrees #exploretreetops #treephotography #forestmasters #treesofvero #treesinthecity #bestforestmood #treesofvero #tranquilscene #nature\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -353,7 +557,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#white #whitheworld #whiteday #whitecolor #allwhitelong #colorwhite #allwhite #minimal #minimal_mood #minimalshots #veromyshot #branco #blanco\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#white #whitheworld #whiteday #whitecolor #allwhitelong #colorwhite #allwhite #minimal #minimal_mood #minimalshots #veromyshot #branco #blanco\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -370,7 +574,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#architecturetoday #architectureview #buildingswow #architectureinspiration #archimaster #skyscraper #officebuildingexterior #architecture #outdoors #city\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#architecturetoday #architectureview #buildingswow #architectureinspiration #archimaster #skyscraper #officebuildingexterior #architecture #outdoors #city\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -391,7 +595,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Management\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#art #artgallery\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Management\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#art #artgallery\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -408,7 +612,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%% and #snap_india\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#asia #asiaphotography #asiapictures #asiatravel #asiavacations #asiaadventures #asiacity #exploreasia #travelasia #sculpture\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%% and #snap_india\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#asia #asiaphotography #asiapictures #asiatravel #asiavacations #asiaadventures #asiacity #exploreasia #travelasia #sculpture\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -429,7 +633,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n📍 [[LOCATION]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#iloveaustralia #downunder #tourismaustralia #uniqueaustralia #exploringtheglobe #naturephotography #focusaustralia #seaaustralia #australianwildlife\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n📍 [[LOCATION]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#iloveaustralia #downunder #tourismaustralia #uniqueaustralia #exploringtheglobe #naturephotography #focusaustralia #seaaustralia #australianwildlife\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -450,7 +654,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#sea #wave #scenicsnature #landscape #dramatic_sky #coast #cloud #sunset #outdoors #ocean #beach_and_sky #rocks #bodyofwater #sky #nature #beach #tranquilscene\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#sea #wave #scenicsnature #landscape #dramatic_sky #coast #cloud #sunset #outdoors #ocean #beach_and_sky #rocks #bodyofwater #sky #nature #beach #tranquilscene\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -467,7 +671,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nBird Species:  [[SPECIES]]\nLocation: [[LOCATION]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#bird #bb_of_vero #nature #wildlife #birds #animalwildlife #birdphotography #feather_features #feathers\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nBird Species:  [[SPECIES]]\nLocation: [[LOCATION]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#bird #bb_of_vero #nature #wildlife #birds #animalwildlife #birdphotography #feather_features #feathers\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -484,7 +688,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#bnw #blackandwhitephotography #blackandwhite #monochrome #momo #pretoebranco #blacknwhite\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#bnw #blackandwhitephotography #blackandwhite #monochrome #momo #pretoebranco #blacknwhite\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -505,7 +709,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#bridges #bridges_around_the_world #bridgesaroundtheworld #bridgeshot #vero_bridges #bridge\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#bridges #bridges_around_the_world #bridgesaroundtheworld #bridgeshot #vero_bridges #bridge\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -522,7 +726,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#butterfly #photography #schmetterling #mariposa #mothsandbutterflies #nature #insect\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#butterfly #photography #schmetterling #mariposa #mothsandbutterflies #nature #insect\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -539,7 +743,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n📍 [[LOCATION]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#imagesofcanada #explorecanada #canada_landscape #canada_epic #canada_ea #CanadianRockies #MadeInCanada #canada\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n📍 [[LOCATION]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#imagesofcanada #explorecanada #canada_landscape #canada_epic #canada_ea #CanadianRockies #MadeInCanada #canada\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -560,7 +764,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#catsofvero #hubsofvero #catlovers #catfuencer #bestmeow #cutiecats #verocats #cats #cats4life #cats_all_day #cats_daily #cats_artists #cats_eyes #domesticcat #largecats\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#catsofvero #hubsofvero #catlovers #catfuencer #bestmeow #cutiecats #verocats #cats #cats4life #cats_all_day #cats_daily #cats_artists #cats_eyes #domesticcat #largecats\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -577,7 +781,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#verocities #cityscape #verocity #cityscapes #cityscape_lovers #cityscape_capture #cityscape_photography #cityviews #citylife\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#verocities #cityscape #verocity #cityscapes #cityscape_lovers #cityscape_capture #cityscape_photography #cityviews #citylife\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -598,7 +802,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#latteart #coffee #coffeefreak #coffee_addict #barista #espresso #coffeetime #cafe #stilllife #foodphotography #coffeebean #morning_coffee #coffeemug #coffeecup #coffeeporn\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#latteart #coffee #coffeefreak #coffee_addict #barista #espresso #coffeetime #cafe #stilllife #foodphotography #coffeebean #morning_coffee #coffeemug #coffeecup #coffeeporn\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -615,7 +819,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#colorful #capturingcolor #colorlovers #coloroftheday #worldofcolor #colorsoflife #colormyworld #muralsofvero #artistsofvero #colors #vibrantcolors\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#colorful #capturingcolor #colorlovers #coloroftheday #worldofcolor #colorsoflife #colormyworld #muralsofvero #artistsofvero #colors #vibrantcolors\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -636,7 +840,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#colourful #capturingcolour #acolourstory #colourlovers #colouroftheday #worldofcolour #coloursoflife #colourmyworld #muralsofvero #colours #vibrantcolours\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#colourful #capturingcolour #acolourstory #colourlovers #colouroftheday #worldofcolour #coloursoflife #colourmyworld #muralsofvero #colours #vibrantcolours\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -657,7 +861,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#pictureframe #framed #border #collage #photography #picoftheday\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#pictureframe #framed #border #collage #photography #picoftheday\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -678,7 +882,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#worldphotography #featureworlds #professionalphotography #snapcommunityonvero #amazingphotohunter #visualcreators #acreativevisual #photographylovers\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#worldphotography #featureworlds #professionalphotography #snapcommunityonvero #amazingphotohunter #visualcreators #acreativevisual #photographylovers\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -695,7 +899,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#countryside #farmanimals #rural_life #ruralliving country_life #country_living #country_feature #rural_scene #barn #agriculture #pasture #field #domesticanimal\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#countryside #farmanimals #rural_life #ruralliving country_life #country_living #country_feature #rural_scene #barn #agriculture #pasture #field #domesticanimal\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -716,7 +920,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#cute #adorable #charming #delightful #sweet #lovely #attractive #enchanting #winsome #appealing #endearing #beauty\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#cute #adorable #charming #delightful #sweet #lovely #attractive #enchanting #winsome #appealing #endearing #beauty\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -741,7 +945,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#dof #street #closeup #lensculture #nature #bokeh #depthoffield #focusonforeground #macrophotography\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#dof #street #closeup #lensculture #nature #bokeh #depthoffield #focusonforeground #macrophotography\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -758,7 +962,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#drops #droplets #closeup #macro #drop #raindrops #photooftheday #dropphotography #freshness #vero #drops_macro #drops_art #drops_hunter #dropsdesigns #drops_perfections\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#drops #droplets #closeup #macro #drop #raindrops #photooftheday #dropphotography #freshness #vero #drops_macro #drops_art #drops_hunter #dropsdesigns #drops_perfections\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -775,7 +979,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#edit #editcreatives #overlayimage #bokeh_addicts #bokeh_and_blur #filter #colorize #colorchange #manipulation #overlay #moody_art #glitch #double_exposure #blur\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#edit #editcreatives #overlayimage #bokeh_addicts #bokeh_and_blur #filter #colorize #colorchange #manipulation #overlay #moody_art #glitch #double_exposure #blur\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -796,7 +1000,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n[[CAMERA AND FILM]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#filmphotography #lensculture #shootfilm #analogcamera #analogvibes #filmisnotdead #analogphotography #grainisgood #defendanalog\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n[[CAMERA AND FILM]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#filmphotography #lensculture #shootfilm #analogcamera #analogvibes #filmisnotdead #analogphotography #grainisgood #defendanalog\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -817,7 +1021,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#fishing #fish #flyfishing #photography #outdoors #scenicsnature #sea #nature #leisureactivity #people\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#fishing #fish #flyfishing #photography #outdoors #scenicsnature #sea #nature #leisureactivity #people\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -838,7 +1042,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%% and #snap_stilllife\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#still_life_gallery #flatlays #quiet_moment #still_life_gallery #stilllife #stilllifephotography #visual_flatlays #still_life_\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%% and #snap_stilllife\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#still_life_gallery #flatlays #quiet_moment #still_life_gallery #stilllife #stilllifephotography #visual_flatlays #still_life_\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -859,7 +1063,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#petal_perfection #flowers #flowerhead #blooms #flowersofvero #top_macro #flowerphotography #macroflowers #flowerartist #colors_flowers #flowerobsession\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#petal_perfection #flowers #flowerhead #blooms #flowersofvero #top_macro #flowerphotography #macroflowers #flowerartist #colors_flowers #flowerobsession\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -880,7 +1084,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#fogphotography #foggyweather #landscapephoto #theglobewanderer #moodytones #mist_vision #landscapephotograhy #ourmoodydays #naturewonder\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#fogphotography #foggyweather #landscapephoto #theglobewanderer #moodytones #mist_vision #landscapephotograhy #ourmoodydays #naturewonder\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -905,7 +1109,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#crocuses #flowersofvero #floweroftheday #flower4ever #garden #gardening #gardeninglife #gardeninglove #gardensofvero #flowers\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#crocuses #flowersofvero #floweroftheday #flower4ever #garden #gardening #gardeninglife #gardeninglove #gardensofvero #flowers\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -926,7 +1130,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n✨ [[LOCATION]] ✨️\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#photography #germany #europe #architecture #deutschland\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n✨ [[LOCATION]] ✨️\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#photography #germany #europe #architecture #deutschland\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -947,7 +1151,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#amphibians #animaleye #animalhead #animalsofvero #animalwildlife #depthoffield #frog #herpetology #herptile #nature #oneanimal #photography #sideview #wildlife\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#amphibians #animaleye #animalhead #animalsofvero #animalwildlife #depthoffield #frog #herpetology #herptile #nature #oneanimal #photography #sideview #wildlife\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -968,7 +1172,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#snap_community #vero #verofamily #verofriends #wewalkaround #hikingaddicts #livelifeoutdoors #enjoythescenery #naturebreak #trailblazer #climbmountains #thegreatoutdoors #beachwalker\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#snap_community #vero #verofamily #verofriends #wewalkaround #hikingaddicts #livelifeoutdoors #enjoythescenery #naturebreak #trailblazer #climbmountains #thegreatoutdoors #beachwalker\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -989,7 +1193,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#home2inspire #homestyle #winter #homedecor #frozen #loveyourhome #decorinspiration #homedecoraddict #interiordesign #home #indoors #pattern #decoration #stilllife\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#home2inspire #homestyle #winter #homedecor #frozen #loveyourhome #decorinspiration #homedecoraddict #interiordesign #home #indoors #pattern #decoration #stilllife\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1010,7 +1214,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#animal #horses #horses4life #wildhorse #horsephotography #horse_photography #equinephotography #horselife #domesticanimals #wildlife #animalwildlife #animalhead #equine\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#animal #horses #horses4life #wildhorse #horsephotography #horse_photography #equinephotography #horselife #domesticanimals #wildlife #animalwildlife #animalhead #equine\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -1027,7 +1231,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#insects #insect_addicts #insects_life #insect_love #insects_macro #insect_capture #insect_macro #insect_perfection #insect_photography #arthropod #bugs #macro_bug\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#insects #insect_addicts #insects_life #insect_love #insects_macro #insect_capture #insect_macro #insect_perfection #insect_photography #arthropod #bugs #macro_bug\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -1040,15 +1244,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n🏆 You have been featured @%%USERNAME%%\n😍 Just an amazing shot.\n🎉 Thanks for tagging this great picture!\n"
+          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n@%%USERNAME%%: You have been featured as part of the @snap_community\n[[PERSONALIZED MESSAGE]]\nThank you for tagging this great photo with #snap_%%PAGENAME%%\n"
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#ireland #irish #irishpride #instaireireland #lovesireland #wanderireland #inspireireland #discoverireland #loveireland #sky #tranquility #waterfeature #tranquilscene\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n📍\n✨ [[FEATURE MESSAGE]] ✨\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#world\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
-          "template": "🌟Featured🌟"
+          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured with #snap_%%PAGEHASH%% ✨"
         }
       ]
     },
@@ -1061,7 +1265,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#street #groupofpeople #people #architecture #city #vehicle #kitchen #foodanddrink #streetfood\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#street #groupofpeople #people #architecture #city #vehicle #kitchen #foodanddrink #streetfood\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1082,7 +1286,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%% and #snap_drone\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n📍 [[LOCATION]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#landscape #landscape_photography #vero_landscapes #landscape_addict #snapcommunityonvero #beautiflulview\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%% and #snap_drone\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n📍 [[LOCATION]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#landscape #landscape_photography #vero_landscapes #landscape_addict #snapcommunityonvero #beautiflulview\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1103,7 +1307,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#lighthousephoto #lighthouse_lovers #lighthouses #lighthouses_around_the_world #farol #faros\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#lighthousephoto #lighthouse_lovers #lighthouses #lighthouses_around_the_world #farol #faros\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1128,7 +1332,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#photography #nightphotography #light #longexposure #lightjunkies #photo #silkwater #waterfall #milkyway #shutterspeed #astro #seascapes #cloudstreaks\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#photography #nightphotography #light #longexposure #lightjunkies #photo #silkwater #waterfall #milkyway #shutterspeed #astro #seascapes #cloudstreaks\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1169,7 +1373,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n⏱️ Monthly Featured Long Exposure Artist ⏱️\n     [[MONTH]] [[YEAR]]\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSpecially Selected by @snap_%%PAGENAME%% followers\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#longexposurephotography #specialfeature\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n⏱️ Monthly Featured Long Exposure Artist ⏱️\n     [[MONTH]] [[YEAR]]\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSpecially Selected by @snap_%%PAGENAME%% followers\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#longexposurephotography #specialfeature\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -1186,7 +1390,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#macro #macrophotography #closeup #closeupphotography #macrophotographer #veromacro #focus #details\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#macro #macrophotography #closeup #closeupphotography #macrophotographer #veromacro #focus #details\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1211,7 +1415,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%% and #snap_africa\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#middleeast #africa #world #travel #tourism #photography #picoftheday\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%% and #snap_africa\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#middleeast #africa #world #travel #tourism #photography #picoftheday\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1232,7 +1436,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#minimalism #minimalistic\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#minimalism #minimalistic\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -1249,7 +1453,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#mobile #mobilephotography #iphonography\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#mobile #mobilephotography #iphonography\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1270,7 +1474,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#light_and_colour #moody_captures #mood #the_gallery_of_magic #moodygrams #natures_moods #moody_tones #moody\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#light_and_colour #moody_captures #mood #the_gallery_of_magic #moodygrams #natures_moods #moody_tones #moody\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1291,7 +1495,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n📍 [[LOCATION]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#mountains #fineartphotography #mountainhiking #mountaincaptures #mountainadventures #hiking #hikingadventures #mountainphotography #mountainscenery\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n📍 [[LOCATION]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#mountains #fineartphotography #mountainhiking #mountaincaptures #mountainadventures #hiking #hikingadventures #mountainphotography #mountainscenery\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -1308,7 +1512,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#night #nightshots\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#night #nightshots\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -1325,7 +1529,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n#[[COUNTRY]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#nordic\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n#[[COUNTRY]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#nordic\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1346,7 +1550,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#numbers #math #mathart #mathematics #numberart #pi #algebra #geometry #calculus #trigonometry #abundance #largegroupofobjects #inarow #arrangement\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#numbers #math #mathart #mathematics #numberart #pi #algebra #geometry #calculus #trigonometry #abundance #largegroupofobjects #inarow #arrangement\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1367,7 +1571,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%_ai\n.\n Featured AI %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#ai #ai_generated #ai_art_community #ai_art_gallery\n#ai_artist #ai_artwork #digitalart #vero_ai_creators\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n#snap_%%PAGENAME%%_ai_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%_ai\n.\n Featured AI %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#ai #ai_generated #ai_art_community #ai_art_gallery\n#ai_artist #ai_artwork #digitalart #vero_ai_creators\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n#snap_%%PAGENAME%%_ai_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -1384,7 +1588,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#portraits_community #great_captures_people #portrait_captures #pursuitofportraits #portraitgames #postthepeople #portraitvision #theportraitpr0ject #portraitphotography\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#portraits_community #great_captures_people #portrait_captures #pursuitofportraits #portraitgames #postthepeople #portraitvision #theportraitpr0ject #portraitphotography\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1405,7 +1609,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#pets #furbaby #dog #cat #horse #domestic_animal #petoftheday #reptile #petphoto #petphotography #animallove #weeklyfluff #cutepet #pet_photo #cutepets #pet_photography\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#pets #furbaby #dog #cat #horse #domestic_animal #petoftheday #reptile #petphoto #petphotography #animallove #weeklyfluff #cutepet #pet_photo #cutepets #pet_photography\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -1422,7 +1626,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#picoftheday #photography #night_addict #createexplore #worldphotography #bevisuallyinspired #scenic_nature #reflection #mountainrange #nature #landscape #amazingshot\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#picoftheday #photography #night_addict #createexplore #worldphotography #bevisuallyinspired #scenic_nature #reflection #mountainrange #nature #landscape #amazingshot\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -1439,7 +1643,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#reflections #reflectionphoto #reflectionperfection #reflection_addict #mirror #reflections_in_water #reflection_landscape #reflection_lake #reflection2025\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#reflections #reflectionphoto #reflectionperfection #reflection_addict #mirror #reflections_in_water #reflection_landscape #reflection_lake #reflection2025\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1460,7 +1664,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%_bnw\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\nFor Reflections Midweek Monochrome\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#reflections #reflectionphoto #reflection_addict #mirror #reflections_in_water #reflection_landscape #reflection2025\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%_bnw\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\nFor Reflections Midweek Monochrome\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#reflections #reflectionphoto #reflection_addict #mirror #reflections_in_water #reflection_landscape #reflection2025\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1481,7 +1685,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#spring #ilovespring #springtime #springvibes #summer #summertime #summerlove #autumn #fall #instafall #autumnweather #winter #winterwonderland #wintertime #wintertime\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#spring #ilovespring #springtime #springvibes #summer #summertime #summerlove #autumn #fall #instafall #autumnweather #winter #winterwonderland #wintertime #wintertime\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1502,7 +1706,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#silhouette #sunset #photography #nature #sky #sunrise #art #bnw #photooftheday #landscape\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#silhouette #sunset #photography #nature #sky #sunrise #art #bnw #photooftheday #landscape\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -1519,7 +1723,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#skylover #skyphotography #sky #sunset #sunrise #clouds #skyscapes #skiesofvero #sunset_madness #sky_perfection\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#skylover #skyphotography #sky #sunset #sunrise #clouds #skyscapes #skiesofvero #sunset_madness #sky_perfection\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1540,7 +1744,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#nonstopstreet #urbanstreetphotogallery #hcsc_street #streetmagazines #dreaminstreets #lensonstreets #life_is_street #urban_shutter #cityunit #street_art_community\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#nonstopstreet #urbanstreetphotogallery #hcsc_street #streetmagazines #dreaminstreets #lensonstreets #life_is_street #urban_shutter #cityunit #street_art_community\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1561,7 +1765,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#symmetry #symmetric #symmetrical #architecture #perspective #pattern\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#symmetry #symmetric #symmetrical #architecture #perspective #pattern\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1582,7 +1786,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#tats #handtattoos #inked4life #tattoos #tattoostudio #tattooartist #tattoomodels #customtattoos #colorfultattoos #hand #technology #tattoos_of_vero #closeup #tattooed\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#tats #handtattoos #inked4life #tattoos #tattoostudio #tattooartist #tattoomodels #customtattoos #colorfultattoos #hand #technology #tattoos_of_vero #closeup #tattooed\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -1599,7 +1803,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#frame #photoart #fineartzone #petal #plant #botany #repetition #fullframe #dof #closeup #snap_flowers #outdoors #blossom #leaf #freshness #macrophotography\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#frame #photoart #fineartzone #petal #plant #botany #repetition #fullframe #dof #closeup #snap_flowers #outdoors #blossom #leaf #freshness #macrophotography\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1624,7 +1828,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#toy #toys #toyphotography #toycollector #toycommunity #toypics #marvel #starwars\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#toy #toys #toyphotography #toycollector #toycommunity #toypics #marvel #starwars\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1645,7 +1849,7 @@
         },
         {
           "name": "feature",
-          "template": "- ‼️ This is a generic script and comments for training purposes only ‼️ -\n#snap_{page name goes here}\n.\n Featured {membership level goes here} @{artist username goes here}\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page {admin or mod} :\n{moderators first name here} : @{moderators username goes here}\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#photography {additional page hash tags go here}\n.\n For internal use only!\n#snap_{page name goes here}_{artist username goes here}\n#snap_featured_{artist username goes here}\n.\n.\n"
+          "template": "- ‼️ This is a generic script and comments for training purposes only ‼️ -\n#snap_{page name goes here}\n.\n Featured {membership level goes here} @{artist username goes here}\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page {admin or mod} :\n{moderators first name here} : @{moderators username goes here}\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#photography {additional page hash tags go here}\n.\n For internal use only!\n#snap_{page name goes here}_{artist username goes here}\n#snap_featured_{artist username goes here}\n.\n.\n"
         },
         {
           "name": "original post",
@@ -1662,7 +1866,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#planes #cars #bikes #trains #trucks #boat #aviationlovers #bikelife #cycling #motorcycle #transportation #bus #carsofvero\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#planes #cars #bikes #trains #trucks #boat #aviationlovers #bikelife #cycling #motorcycle #transportation #bus #carsofvero\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -1679,7 +1883,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#uk #britain #ukshots #ukdaily #1ukshot #bestpicsuk #topuk #snapuk #britain_outdoors #bbcbritain #visitbritain #unitedkingdom #brilliantbritain #map_of_europe\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#uk #britain #ukshots #ukdaily #1ukshot #bestpicsuk #topuk #snapuk #britain_outdoors #bbcbritain #visitbritain #unitedkingdom #brilliantbritain #map_of_europe\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1700,7 +1904,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n📍 [[LOCATION]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#usa #photography #exploring #outdoors #captures #adventure #wanderlust #global_capture #travel #mood #roamtheplanet #photographerlife\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n📍 [[LOCATION]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#usa #photography #exploring #outdoors #captures #adventure #wanderlust #global_capture #travel #mood #roamtheplanet #photographerlife\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -1717,7 +1921,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%% and #snap_oceanlife\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n📍 [[LOCATION]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#water_photography #water_captures #water_addicts #water_brilliance #water_droplets #bythewater #water_and_land #amazing_adventure\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%% and #snap_oceanlife\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n📍 [[LOCATION]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#water_photography #water_captures #water_addicts #water_brilliance #water_droplets #bythewater #water_and_land #amazing_adventure\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -1734,7 +1938,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#snap #snap_community #vero #verofamily #verofriends #photography #wildlife #animalwildlife #wildlife_photography #nature #lensculture\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#snap #snap_community #vero #verofamily #verofriends #photography #wildlife #animalwildlife #wildlife_photography #nature #lensculture\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
@@ -1755,7 +1959,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n✨ [[FEATURE MESSAGE]] ✨\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#world\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n✨ [[FEATURE MESSAGE]] ✨\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#world\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
@@ -1772,7 +1976,7 @@
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%% and #snap_books\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n80 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#poetryhive #bleedink #spilledthoughts #wordsmith #drunkpoetsociety #poetrysociety #poetryisart #writersnetwork #signs #motivationalquotes #poetry\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%% and #snap_books\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#poetryhive #bleedink #spilledthoughts #wordsmith #drunkpoetsociety #poetrysociety #poetryisart #writersnetwork #signs #motivationalquotes #poetry\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "first comment",
