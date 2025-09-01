@@ -1,0 +1,6 @@
+{
+    "hub": "click",
+    "title": "Click",
+    "aiWarningLimit": 0.5,
+    "aiTriggerLimit": 0.8
+}
