@@ -405,7 +405,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "Congratulations on your feature @%%USERNAME%% ! [[COMMENTS ABOUT IMAGE]] 👏 Thank you for using our #snap_%%PAGENAME%% tag on your work - we appreciate it!\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -413,7 +413,7 @@
         },
         {
           "name": "original post",
-          "template": "✨FEATURED✨ on @snap_%%PAGENAME%% - Congratulations!\n"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -422,7 +422,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🔶✨Congratulations @%%USERNAME%% on your wonderful feature with @snap_%%PAGENAME%%, thank you for sharing it with us and supporting our community . ✨🔶\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -430,7 +430,7 @@
         },
         {
           "name": "original post",
-          "template": "✨🎇featured 🎇✨\n"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -439,7 +439,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "💥🏆 Heartfelt congratulations on your AI Feature, @%%USERNAME%% 🏆💥! Thank you for sharing your wonderful AI artwork with us. 🙏🏼 Please keep tagging #snap_%%PAGENAME%% for a chance of more features!\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%_ai✨✨\n"
         },
         {
           "name": "feature",
@@ -447,7 +447,7 @@
         },
         {
           "name": "original post",
-          "template": "✨🎇 FEATURED AI %%MEMBERLEVEL%% @snap_%%PAGENAME%% 🎇✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%%_ai ✨"
         }
       ]
     },
@@ -456,19 +456,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "💥🏆Heartfelt congratulations, @%%USERNAME%% on your feature with us🏆💥! Thank you for sharing your wonderful AI artwork with us. 🙏🏼 Please keep tagging #snap_%%PAGENAME%% for a chance of more features!\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#ai #ai_generated #ai_art_community #ai_art_gallery #ai_artist #ai_artwork #digitalart #vero_ai_creators\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "💥🏆Heartfelt congratulations, @%%USERNAME%% on your FIRST feature with us 🏆💥! Thank you for sharing your wonderful AI artwork with us. 🙏🏼 Please keep tagging #snap_%%PAGENAME%% for a chance of more features!\n"
-        },
-        {
           "name": "original post",
-          "template": "FEATURED"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -477,7 +473,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "💫Congratulations💫 on your feature @%%USERNAME%% 🖤 Thank you for sharing your artistic imagery with #snap_%%PAGENAME%% 💫\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -485,7 +481,7 @@
         },
         {
           "name": "original post",
-          "template": "✨ Featured  ✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -494,7 +490,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "Congratulations 👏🎉 @%%USERNAME%%!   [[PERSONALIZED MESSAGE]]  Welcome to the snap_%%PAGENAME%% Gallery 🌟🌟 Thank you for tagging and sharing your wonderful nature with us 🌟🌟\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -502,7 +498,7 @@
         },
         {
           "name": "original post",
-          "template": "🌟✨Featured 🌟✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -511,23 +507,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🏆Congratulations You have been featured @%%USERNAME%% 🏆\n😍 Just an amazing shot. ✨✨\n💕 Thanks for tagging this great picture with #snap_%%PAGENAME%% 💫🙏\n🏆Keep tagging #snap_%%PAGENAME%% for a chance of more features. 👍💕\n"
-        },
-        {
-          "name": "community comment",
-          "template": "🏆Congratulations You have been featured @%%USERNAME%% 💫\n😍 Just an amazing shot. ✨✨\n💕Thank you for tagging and sharing your image with the Snap Community 💫\n🏆Consider visiting and follow our gallery @snap_%%PAGENAME%% and using our page hashtag #snap_%%PAGENAME%% in your future posts for a chance of more features👍💕\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#team #athlete #people #competition #sports #sport #leisureactivity #teamsport #extremesport\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "🏆Congratulations! You have been featured @%%USERNAME%%🏆\n😍Just an amazing shot. ✨✨\n🏆Congratulations on your first feature here at the @snap_%%PAGENAME%%💫\n💕Thanks for tagging this great picture with #snap_%%PAGENAME%% 🙏\n🏆Keep tagging #snap_%%PAGENAME%% for a chance of more features.💕\n"
-        },
-        {
           "name": "original post",
-          "template": "✨✨✨FEATURED on @snap_%%PAGENAME%% ✨✨✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -536,7 +524,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "⭐️🌟 @%%USERNAME%% Huge congratulations on your %%MEMBERLEVEL%% feature and your appearance on our Vero page!  Thanks so much for your support and we hope you will continue to tag us!  🌟⭐\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -544,7 +532,7 @@
         },
         {
           "name": "original post",
-          "template": "⭐️🌟 Proud %%MEMBERLEVEL%% FEATURE, congratulations! 🌟⭐"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -553,7 +541,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🤍🤍💫 Congratulations💫🤍🤍 [[USER'S FIRST NAME]] @%%USERNAME%% on your beautiful feature 🤍 Thank you for tagging #snap_%%PAGENAME%% 🤍💫🤍\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -561,7 +549,7 @@
         },
         {
           "name": "original post",
-          "template": "🤍✨ Featured ✨🤍"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -570,19 +558,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨CONGRATULATIONS ✨ Congratulations @%%USERNAME%% for your photo and thanks for sharing with the #snap_%%PAGENAME%% community. Keep following and tagging your architecture photos with this tag. 👏🏼\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#architecturetoday #architectureview #buildingswow #architectureinspiration #archimaster #skyscraper #officebuildingexterior #architecture #outdoors #city\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "✨CONGRATULATIONS ✨ Congratulations @%%USERNAME%% for your first feature in our page #snap_%%PAGENAME%%. Keep following and tagging your architecture photos with this tag. 👏🏼\n"
-        },
-        {
           "name": "original post",
-          "template": "⭐️ Featured ⭐️\n\n• #snap_%%PAGENAME%% •\n⭐️ Featured *%%MEMBERLEVEL%%*: @%%USERNAME%% ⭐"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -591,7 +575,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🎊🎆🎉 Congratulations on your feature @%%USERNAME%% 🎉🎆🎊 Stunning picture 💫✨💫 Thank you for being part of our Community and adding your Membership in your bio 😊\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -599,7 +583,7 @@
         },
         {
           "name": "original post",
-          "template": "🌟 FEATURED 🌟"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -608,19 +592,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨Congratulations @%%USERNAME%%✨\n✨Thank you for sharing your beautiful work with us✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%% and #snap_india\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#asia #asiaphotography #asiapictures #asiatravel #asiavacations #asiaadventures #asiacity #exploreasia #travelasia #sculpture\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "✨Congratulations on your First Snap ⛩️Asia⛩️ Feature @%%USERNAME%%✨\n✨Thank you so much for sharing your beautiful work with us✨\n"
-        },
-        {
           "name": "original post",
-          "template": "✨Featured✨Congratulations🎊\nKeep tagging your amazing pictures!"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -629,19 +609,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🏆Congratulations! .. You have been featured @%%USERNAME%% 🏆\n😍 Just an amazing shot.\n💕 🎉 Thanks for tagging this great picture with #snap_%%PAGENAME%% 🇦🇺🇳🇿🙏 😃 💙\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n📍 [[LOCATION]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#iloveaustralia #downunder #tourismaustralia #uniqueaustralia #exploringtheglobe #naturephotography #focusaustralia #seaaustralia #australianwildlife\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "Congratulations on your feature today and welcome to the Snap Australia Gallery with this amazing capture! 🌟👏🌟👏🌟👏🌟\n\nKeep tagging us in your future photos using #snap_%%PAGENAME%% for the chance of more features! 🌟🇦🇺🌟🇳🇿🌟\n"
-        },
-        {
           "name": "original post",
-          "template": "🌟Featured - thanks for tagging us! 🌟"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -650,7 +626,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "« CONGRATULATIONS on your feature with @snap_%%PAGENAME%% today!!! ✨🏆 😍 Thank you for sharing this wonderful image with us. Keep tagging #snap_%%PAGENAME%% for a chance of more features\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -658,7 +634,7 @@
         },
         {
           "name": "original post",
-          "template": "✨Congratulations on your @snap_%%PAGENAME%% feature✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -667,7 +643,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "[[USER'S FIRST NAME]] @%%USERNAME%%. Thank you for sharing your [[SPECIES]] image with us. Congratulations on your feature !\n🕊️💯🕊️💯💯♥️🕊️\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -675,7 +651,7 @@
         },
         {
           "name": "original post",
-          "template": "✨💫Featured %%MEMBERLEVEL%%💫✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -684,19 +660,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "Congratulations on your feature @%%USERNAME%%  Awesome picture 💫⚪⚫💫 Thank You for sharing your wonderful art with us and supporting our Community!! 😊🖤\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#bnw #blackandwhitephotography #blackandwhite #monochrome #momo #pretoebranco #blacknwhite\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "Congratulations on your first feature with Snap Bnw @%%USERNAME%%  Superb picture 💫⚪⚫💫 Thank You for sharing your wonderful art with us and supporting our Bnw page!! 😊🖤\n"
-        },
-        {
           "name": "original post",
-          "template": "🌟 FEATURED 🌟"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -705,7 +677,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🏆 Congratulations! @%%USERNAME%%, You have been featured on @snap_%%PAGENAME%%  💙.\nKeep up the good work and keep sharing it with us. ✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -713,7 +685,7 @@
         },
         {
           "name": "original post",
-          "template": "🏆✨ Featured on Snap Bridges ✨🏆"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -722,7 +694,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🎊💫🎉 Congratulations on your feature [[USER'S FIRST NAME]] @%%USERNAME%% 🎉💫🎊 Such a wonderful image! 🌟🦋🌟 Keep tagging your wonderful art with #snap_%%PAGENAME%% 😊\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -730,7 +702,7 @@
         },
         {
           "name": "original post",
-          "template": "🦋🌟FEATURED🌟🦋"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -739,19 +711,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n@%%USERNAME%% You have been featured with @snap_%%PAGENAME%%. ✨🏆\n[[PERSONALIZED MESSAGE]]\nThank you for sharing this amazing shot with us, keep tagging #snap_%%PAGENAME%% for a chance of more features.\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n📍 [[LOCATION]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#imagesofcanada #explorecanada #canada_landscape #canada_epic #canada_ea #CanadianRockies #MadeInCanada #canada\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n@%%USERNAME%%: You have been featured with @snap_%%PAGENAME%%, your first feature with us. ✨🏆\n[[PERSONALIZED MESSAGE]]\nThank you for sharing this amazing shot with us, keep tagging #snap_%%PAGENAME%% for a chance of more features.\n"
-        },
-        {
           "name": "original post",
-          "template": "✨ Featured %%MEMBERLEVEL%% ✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -760,7 +728,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨🌟🌟✨      CONGRATULATIONS on your feature today with @snap_%%PAGENAME%%, [[USER'S FIRST NAME]]! ✨🏆✨ Thank you for sharing your beautiful cat portrait, and please continue tagging us at #snap_%%PAGENAME%% for the chance of more features! 🌟👍🙏😻🌟\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -768,7 +736,7 @@
         },
         {
           "name": "original post",
-          "template": "✨🏆  FEATURED  %%MEMBERLEVEL%%  🏆✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -777,19 +745,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🌟@%%USERNAME%% 🌟 [[PERSONALIZED MESSAGE]]  Congratulations on your new feature with @snap_%%PAGENAME%% today.  Thank you so very much for tagging us and remember to keep using our #snap_%%PAGENAME%% for more features ✴️🌟✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#verocities #cityscape #verocity #cityscapes #cityscape_lovers #cityscape_capture #cityscape_photography #cityviews #citylife\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "🌟 @%%USERNAME%% 🌟👍 [[PERSONALIZED MESSAGE]] Congratulations on your first feature with @snap_%%PAGENAME%% today. Thank you very much for tagging us. Keep using our hashtag #snap_%%PAGENAME%% for a chance of more features.  👏❤️🌟"
-        },
-        {
           "name": "original post",
-          "template": "✴️ Featured %%MEMBERLEVEL%% ✴️"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -798,7 +762,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🏆 Congratulations on your %%MEMBERLEVEL%% feature @%%USERNAME%% \nIt’s wonderful to see your photo in our gallery! Thanks for sharing it with us and Keep Tagging: #snap_%%PAGENAME%%  \nWe look forward to seeing more of your work!! ❤️☕️❤️\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -806,7 +770,7 @@
         },
         {
           "name": "original post",
-          "template": "✨FEATURE SELECTION ☕️\n"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -815,19 +779,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🌟Congratulations [[USER'S FIRST NAME]], [[PERSONALIZED MESSAGE]] Thanks for tagging us this beauty 🌟 @%%USERNAME%%\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#colorful #capturingcolor #colorlovers #coloroftheday #worldofcolor #colorsoflife #colormyworld #muralsofvero #artistsofvero #colors #vibrantcolors\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "✨🏆 Congratulations @%%USERNAME%% on your 1st Snap Colorsplash feature🏆✨ Delighted to  welcome  you  in our gallery ! Thank you for sharing this so beautiful edit with us.\n"
-        },
-        {
           "name": "original post",
-          "template": "✨🏆 FEATURED !!🏆✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -836,7 +796,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨CONGRATULATIONS!!!✨✨\n🏆 You have been featured @%%USERNAME%% 🏆\n😍Thank you for sharing your amazing photo and supporting @snap_community\nPlease keep on tagging #snap_%%PAGENAME%% to be featured.\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -844,7 +804,7 @@
         },
         {
           "name": "original post",
-          "template": "🌟🌟 FEATURED 🌟🌟"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -853,23 +813,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🌟Congratulations! You have been featured  @%%USERNAME%% 👏\n😍 Just an amazing shot. ✨✨\n💕  Thanks for tagging this great picture with @snap_%%PAGENAME%% ✨\n🌟 Keep tagging #snap_%%PAGENAME%% for a chance of more features. 💕\n"
-        },
-        {
-          "name": "community comment",
-          "template": "🏆Congratulations You have been featured @%%USERNAME%% 💫\n😍 Just an amazing shot. ✨✨\n💕Thank you for tagging and sharing your image with the Snap Community 💫🙏\n🏆Consider visiting and follow our gallery @snap_%%PAGENAME%% and using our page hashtag #snap_%%PAGENAME%% in your future posts for a chance of more features👍💕🌟\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#pictureframe #framed #border #collage #photography #picoftheday\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "🏆Congratulations! You have been featured @%%USERNAME%%🏆\n😍Just an amazing shot. ✨✨\n🏆Congratulations on your first feature here at the @snap_%%PAGENAME%%💫\n💕Thanks for tagging this great picture with #snap_%%PAGENAME%% 🙏\n🏆Keep tagging #snap_%%PAGENAME%% for a chance of more features.💕\n"
-        },
-        {
           "name": "original post",
-          "template": "✨✨✨ FEATURED on @snap_%%PAGENAME%% ✨✨✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -878,7 +830,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "Congratulations to our %%MEMBERLEVEL%% @%%USERNAME%% !! We appreciate your support! 👏👏👏💕💕💕\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -886,7 +838,7 @@
         },
         {
           "name": "original post",
-          "template": "✨%%MEMBERLEVEL%% FEATURE✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -895,7 +847,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨👑🏆Heartfelt congratulations, [[USER'S FIRST NAME]], @%%USERNAME%%, on your feature today with @snap_%%PAGENAME%%! 🏆👑✨\n🌹🏆🌹Thank you for sharing your wonderful image, and for tagging us at #snap_%%PAGENAME%%. ✨👏😁👏✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -903,7 +855,7 @@
         },
         {
           "name": "original post",
-          "template": "✨🏆 Featured %%MEMBERLEVEL%% 🏆✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -912,27 +864,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🎆🎉 @%%USERNAME%% ⭐️ [[PERSONALIZED MESSAGE]] ⭐️ Congratulations on your feature with @snap_%%PAGENAME%% today, and thank you for tagging us in this brilliant capture. ✨Please follow us on @snap_%%PAGENAME%% if you haven't already done so and keep tagging #snap_%%PAGENAME%% for a chance of more features. ✨🎉🎆🎊\n"
-        },
-        {
-          "name": "community comment",
-          "template": "🎆🎉 @%%USERNAME%% ⭐️ [[PERSONALIZED MESSAGE]] ⭐️ Congratulations on your feature with @snap_%%PAGENAME%% today, and thank you for tagging us in this brilliant capture. ✨ Please follow us on @snap_%%PAGENAME%% if you haven't already done so and use the hashtag #snap_%%PAGENAME%% in this type of photograph for a chance of more features. ✨🎉🎆🎊\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#cute #adorable #charming #delightful #sweet #lovely #attractive #enchanting #winsome #appealing #endearing #beauty\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "🎆🎉 @%%USERNAME%% ⭐️ [[PERSONALIZED MESSAGE]] ⭐️ Congratulations on your first feature with @snap_%%PAGENAME%% today, and a very warm welcome to our gallery. ✨Please follow us on @snap_%%PAGENAME%% if you haven't already done so and keep tagging #snap_%%PAGENAME%% for a chance of more features. ✨🎉🎆🎊\n"
-        },
-        {
-          "name": "first community comment",
-          "template": "🎉 @%%USERNAME%% ⭐️ [[PERSONALIZED MESSAGE]] ⭐️ Congratulations on your first feature with @snap_%%PAGENAME%% today, and a very warm welcome to our gallery. ✨Please follow us on @snap_%%PAGENAME%% if you haven't already done so and use the hashtag #snap_%%PAGENAME%% in this type of photograph. for a chance of more features. ✨🎉🎆🎊\n"
-        },
-        {
           "name": "original post",
-          "template": "✨✨FEATURED ON @snap_%%PAGENAME%% ✨✨ Congratulations ✨\n"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -941,7 +881,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨Congratulations on your feature @%%USERNAME%% 🎊 🎉  Thank you for sharing your beautiful image with us ✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -949,7 +889,7 @@
         },
         {
           "name": "original post",
-          "template": "✨FEATURED on @snap_%%PAGENAME%% ✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -958,7 +898,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "@%%USERNAME%% ✨🌟🌟✨\nCONGRATULATIONS on your feature today with @snap_%%PAGENAME%%, [[USER'S FIRST NAME]]! ✨🏆✨ Thank you for sharing your wonderful image, and please continue tagging us at #snap_%%PAGENAME%% for the chance of more features! 🌟👍🙏😻🌟\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -966,7 +906,7 @@
         },
         {
           "name": "original post",
-          "template": "Congratulations on your feature, [[USER'S FIRST NAME]]!\nLighting, colors, and details are amazing in this composition! Wonderful capture! 🏆\n"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -975,19 +915,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n@%%USERNAME%%: You have been featured as part of the @snap_community\n[[PERSONALIZED MESSAGE]]\nThank you for tagging this great photo with #snap_%%PAGENAME%%\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#edit #editcreatives #overlayimage #bokeh_addicts #bokeh_and_blur #filter #colorize #colorchange #manipulation #overlay #moody_art #glitch #double_exposure #blur\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "✨✨CONGRATULATIONS!!! ✨\n[[USER'S FIRST NAME]] @%%USERNAME%%! Welcome to @snap_%%PAGENAME%%, Big Congratulations on a perfect edit as your first feature in this gallery!\n[[PERSONALIZED MESSAGE]]\nPlease continue sharing your beautiful photography with us using #snap_%%PAGENAME%%!\n"
-        },
-        {
           "name": "original post",
-          "template": "✨ Featured by @snap_%%PAGENAME%% ✨\na page out of the @snap_kingdom at the @snap_community"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -996,7 +932,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🎆 Congratulations on your feature @%%USERNAME%% 🎊🎉🎊 Thank you for sharing your gorgeous picture with us!! 💫🎆💫\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -1004,7 +940,7 @@
         },
         {
           "name": "original post",
-          "template": "💫 Featured 💫"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1013,23 +949,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🎣🌟 Congratulations You have been featured @%%USERNAME%% 👏📸🎣\n👏✨📸 Just an amazing shot. ✨✨\n🎣✨ Thanks for tagging this great picture with #snap_%%PAGENAME%% 🌟🎣\n🙏 Keep tagging #snap_%%PAGENAME%% for a chance of more features. 💕🌟\n"
-        },
-        {
-          "name": "community comment",
-          "template": "🎣🌟 Congratulations You have been featured @%%USERNAME%% 🎣✨\n✨🎣 Just an amazing shot. ✨🎣\n💕Thank you for tagging and sharing your image with the Snap Community 💫🙏\n🎣 Consider visiting and follow our gallery @snap_%%PAGENAME%% and using our page hashtag #snap_%%PAGENAME%% in your future posts for a chance of more features. 🌟🎣\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#fishing #fish #flyfishing #photography #outdoors #scenicsnature #sea #nature #leisureactivity #people\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "🏆Congratulations! You have been featured @%%USERNAME%%🏆\n😍Just an amazing shot. ✨✨\n🏆Congratulations on your first feature here at the @snap_%%PAGENAME%%💫\n💕Thanks for tagging this great picture with #snap_%%PAGENAME%% 🙏\n🏆Keep tagging #snap_%%PAGENAME%% for a chance of more features.💕\n"
-        },
-        {
           "name": "original post",
-          "template": "✨✨✨ FEATURED on @snap_%%PAGENAME%% ✨✨✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1038,19 +966,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🏆 Congratulations on your latest #snap_%%PAGENAME%% feature, @%%USERNAME%% . It’s wonderful to see one of your photos in our gallery again! Thanks for sharing it with us and Keep Tagging: #snap_%%PAGENAME%% !! We look forward to seeing more of your beautiful work!! 🎇✨🎉🎊\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%% and #snap_stilllife\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#still_life_gallery #flatlays #quiet_moment #still_life_gallery #stilllife #stilllifephotography #visual_flatlays #still_life_\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "🏆 Congratulations on your 1st #snap_%%PAGENAME%% feature, @%%USERNAME%% . It’s wonderful to see your photo in our gallery! Thanks for sharing it with us and Keep Tagging: #snap_%%PAGENAME%% !! We look forward to seeing more of your beautiful work!! 🎇✨🎉🎊\n"
-        },
-        {
           "name": "original post",
-          "template": "💫🎊🎉 FEATURED @snap_%%PAGENAME%% 💫🎊🎉"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1059,19 +983,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "💫 🌺Congratulations 🌺💫 [[USER'S FIRST NAME]] 💫 @%%USERNAME%% on your feature today on the Snap Flowers Gallery! What a lovely image with a beautiful composition and detail! Thank you for sharing with us!\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#petal_perfection #flowers #flowerhead #blooms #flowersofvero #top_macro #flowerphotography #macroflowers #flowerartist #colors_flowers #flowerobsession\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "💫 🌺Congratulations 🌺💫 [[USER'S FIRST NAME]] 💫 @%%USERNAME%% on your first feature on the Snap Flowers Gallery! What a lovely image with a beautiful composition and detail! Thank you for sharing with us!\n"
-        },
-        {
           "name": "original post",
-          "template": "✨✨ Featured ✨ [[USER'S FIRST NAME]] ✨ @%%USERNAME%%"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1080,19 +1000,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🎊🌠🎉Congratulations on your foggy feature @%%USERNAME%%! Amazing photography. 🌟💫🌟Keep tagging your wonderful pictures to #snap_%%PAGENAME%%!\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#fogphotography #foggyweather #landscapephoto #theglobewanderer #moodytones #mist_vision #landscapephotograhy #ourmoodydays #naturewonder\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "🎊🌠🎉Congratulations on your first foggy feature @%%USERNAME%%! Amazing photography. 🌟💫🌟Keep tagging your wonderful pictures to #snap_%%PAGENAME%%!\n"
-        },
-        {
           "name": "original post",
-          "template": "✨✨✨FEATURED✨✨✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1101,23 +1017,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🏆Congratulations! You have been featured @%%USERNAME%% 🏆\n😍 Just an amazing shot. ✨✨\n💕 🎉 Thanks for tagging this great picture with #snap_%%PAGENAME%%💫 🙏\n🏆Keep tagging #snap_%%PAGENAME%% for a chance of more features. 👍💕🌟\n"
-        },
-        {
-          "name": "community comment",
-          "template": "🏆Congratulations You have been featured @%%USERNAME%% 💫\n😍 Just an amazing shot. ✨✨\n💕Thank you for tagging and sharing your image with the Snap Community 💫🙏\n🏆Consider visiting and follow our gallery @snap_%%PAGENAME%% and using our page hashtag #snap_%%PAGENAME%% in your future posts for a chance of more features👍💕🌟\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#crocuses #flowersofvero #floweroftheday #flower4ever #garden #gardening #gardeninglife #gardeninglove #gardensofvero #flowers\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "🏆Congratulations! You have been featured @%%USERNAME%%🏆\n😍Just an amazing shot. ✨✨\n🏆Congratulations on your first feature here at the @snap_%%PAGENAME%%💫\n💕Thanks for tagging this great picture with #snap_%%PAGENAME%% 🙏\n🏆Keep tagging #snap_%%PAGENAME%% for a chance of more features.💕\n"
-        },
-        {
           "name": "original post",
-          "template": "✨✨✨FEATURED on @snap_%%PAGENAME%% ✨✨✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1126,19 +1034,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🎉🎊 CONGRATULATIONS!!! 🎊🎉\n👉🏆 You have been featured @%%USERNAME%% 👈\n😍 Just an amazing wonderful shot 💪💪.\n👍💛💚💙 Thanks for tagging this great picture with #snap_%%PAGENAME%%, Keep sharing with us  your great work!! 💛💚💙 \n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n✨ [[LOCATION]] ✨️\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#photography #germany #europe #architecture #deutschland\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "🎉🎊 CONGRATULATIONS!!! 🎊🎉\n👉🏆 Congratulations on your first feature with @snap_%%PAGENAME%% @%%USERNAME%% 👈\n😍 Just an amazing wonderful shot 💪💪.\n👍💛💚💙 Thanks for tagging this great picture with #snap_%%PAGENAME%%, Keep sharing with us  your great work!! 💛💚💙\n"
-        },
-        {
           "name": "original post",
-          "template": "🏆 FEATURED on Snap Germany 🏆"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1147,19 +1051,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨💫✨Congratulations on your Snap Herpetology Feature @%%USERNAME%% 🎊. Keep tagging and sharing your amazing photos with us! 💚🐸🐢🐍🦎 🐊\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#amphibians #animaleye #animalhead #animalsofvero #animalwildlife #depthoffield #frog #herpetology #herptile #nature #oneanimal #photography #sideview #wildlife\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "🎊 Congratulations on your first Snap Herpetology Feature @%%USERNAME%% 🎊. Wonderful photo 💫⭐️💫Thank you for tagging your beautiful photos with #snap_%%PAGENAME%% 💚🐸🐢🐍🦎🐊\n"
-        },
-        {
           "name": "original post",
-          "template": "💚🐸🐢🐍🦎🐊\n🏆 FEATURED on Snap Herpetology🏆"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1168,19 +1068,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "💫 ⭐️💫 Congratulations on your feature [[USER'S FIRST NAME]] @%%USERNAME%% 💫 ⭐️💫\nThank you for tagging and sharing your image with the Snap community 💫⭐️💫\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#snap_community #vero #verofamily #verofriends #wewalkaround #hikingaddicts #livelifeoutdoors #enjoythescenery #naturebreak #trailblazer #climbmountains #thegreatoutdoors #beachwalker\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "💫 ⭐️💫 Congratulations [[USER'S FIRST NAME]] @%%USERNAME%% on your first feature in the\n@snap_%%PAGENAME%% gallery!💫 ⭐️💫\nThank you for tagging and sharing your image with the Snap community 💫⭐️💫\n"
-        },
-        {
           "name": "original post",
-          "template": "💫 ⭐️💫 Featured 💫 ⭐️💫"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1189,19 +1085,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🏡🛁🐈 Congratulations @%%USERNAME%% on your feature on @snap_%%PAGENAME%%. My topic today is [[DAY'S TOPIC]] 🏡 🏚️🏠🛖🏘️🪺🪹. Please continue to tag your wonderful art with #snap_%%PAGENAME%%.🏡🎁"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#home2inspire #homestyle #winter #homedecor #frozen #loveyourhome #decorinspiration #homedecoraddict #interiordesign #home #indoors #pattern #decoration #stilllife\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "🏡🛁🐈 Congratulations @%%USERNAME%% on your first feature on @snap_%%PAGENAME%%. My topic today is [[DAY'S TOPIC]] 🏡 🏚️🏠🛖🏘️🪺🪹. Please continue to tag your wonderful art with #snap_%%PAGENAME%%.🏡🎁\n"
-        },
-        {
           "name": "original post",
-          "template": "✨FEATURED✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1210,7 +1102,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n🏆 You have been featured. @%%USERNAME%% 🏆\n😍 This is an amazing image!  \n💕 🎉 Thank you for tagging #snap_%%PAGENAME%% 🙏 😃 💖\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -1218,7 +1110,7 @@
         },
         {
           "name": "original post",
-          "template": "✨ Featured on @snap_%%PAGENAME%% ✨  \nA page out of the @snap_kingdom at the @snap_community ! Congratulations! ✨\n"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1227,7 +1119,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n🏆 You have been featured @%%USERNAME%%\n😍 Just an amazing shot.\n💕 🎉 Thanks for tagging this great picture with #snap_%%PAGENAME%% 🙏 😃 💜\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -1235,7 +1127,7 @@
         },
         {
           "name": "original post",
-          "template": "✨ Featured on @snap_%%PAGENAME%% ✨\na page out of the @snap_kingdom at the @snap_community"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1244,7 +1136,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS ✨✨\n [[PERSONALIZED MESSAGE]]\nThank you %%USERNAME%%for tagging #snap_%%PAGENAME%%\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -1252,7 +1144,7 @@
         },
         {
           "name": "original post",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured with #snap_%%PAGEHASH%% ✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1261,19 +1153,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🍎🥒🍅 Congratulations @%%USERNAME%% on your feature on @snap_%%PAGENAME%% ✨💫✨ My topic today is [[DAY'S TOPIC]] ☕️ . I love it so much. Please continue to tag your wonderful art with #snap_%%PAGENAME%% 🎃\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#street #groupofpeople #people #architecture #city #vehicle #kitchen #foodanddrink #streetfood\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "🍎🥒🍅 Congratulations @%%USERNAME%% on your first feature on @snap_%%PAGENAME%% ✨💫✨ My topic today is [[DAY'S TOPIC]] 🥘🌮🌭. I love it so much. Please continue to tag your wonderful art with #snap_%%PAGENAME%% 🎃"
-        },
-        {
           "name": "original post",
-          "template": "✨FEATURED✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1282,19 +1170,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "@%%USERNAME%% Congratulations on your feature today in the Snap Landscape Gallery with this amazing landscape capture! 🌟🏞👏🏞👏🏞👏🏞🌟\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%% and #snap_drone\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n📍 [[LOCATION]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#landscape #landscape_photography #vero_landscapes #landscape_addict #snapcommunityonvero #beautiflulview\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "@%%USERNAME%% Congratulations on your feature today and welcome to the Snap Landscape Gallery with this amazing landscape capture! 🌟🏞👏🏞👏🏞👏🏞🌟\n"
-        },
-        {
           "name": "original post",
-          "template": "🌟🏞🌟 Featured 🌟🏞🌟"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1303,19 +1187,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨ CONGRATULATIONS on your feature @%%USERNAME%% ✨\nThank you for sharing your wonderful photos with our page and supporting @snap_community\nPlease keep on tagging #snap_%%PAGENAME%% and #snap_community for a chance to be featured!\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#lighthousephoto #lighthouse_lovers #lighthouses #lighthouses_around_the_world #farol #faros\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "✨ CONGRATULATIONS on your feature @%%USERNAME%% ✨\nWelcome to the @snap_%%PAGENAME%% page!\nThank you for sharing your wonderful photos with our page and supporting @snap_community\nPlease keep on tagging #snap_%%PAGENAME%% and #snap_community for a chance to be featured!\n"
-        },
-        {
           "name": "original post",
-          "template": "FEATURED on @snap_%%PAGENAME%% 🎉🎉🎉 congratulations!! Thank you for sharing your awesome photography with us."
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1324,60 +1204,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n🏆 You have been featured @%%USERNAME%% 🏆\n😍 Just an amazing shot. 😍\n💕📣 Thanks for tagging this great picture with #snap_%%PAGENAME%% 📣💕\n"
-        },
-        {
-          "name": "community comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n🏆 You have been featured @%%USERNAME%% 🏆\n😍 Just an amazing shot. 😍\n💕📣 Thank You for sharing your wonderful photo with us and supporting our Community!! Consider visiting and follow our gallery @snap_%%PAGENAME%% and using our page hashtag #snap_%%PAGENAME%% in your future posts for a chance of more features. 📣💕\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#photography #nightphotography #light #longexposure #lightjunkies #photo #silkwater #waterfall #milkyway #shutterspeed #astro #seascapes #cloudstreaks\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n🏆 You have been featured @%%USERNAME%%, your first feature in @snap_%%PAGENAME%% 🏆\n😍 Just an amazing shot. 😍\n💕📣 Thanks for tagging this great picture with #snap_%%PAGENAME%% 📣💕\n"
-        },
-        {
-          "name": "first community comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n🏆 You have been featured @%%USERNAME%%, your first feature in @snap_%%PAGENAME%% 🏆\n😍 Just an amazing shot. 😍\n💕📣 Thank You for sharing your wonderful photo with us and supporting our Community!! Consider visiting and follow our gallery @snap_%%PAGENAME%% and using our page hashtag #snap_%%PAGENAME%% in your future posts for a chance of more features. 📣💕\n"
-        },
-        {
-          "name": "first raw comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n🏆 You have been featured @%%USERNAME%%, your first feature in @snap_%%PAGENAME%% 🏆\n😍 Just an amazing shot. 😍\n💕📣 Thanks for tagging this great picture with #raw_%%PAGENAME%%! Please consider tagging with #snap_%%PAGENAME%% for more chances at a feature. 📣💕\n"
-        },
-        {
-          "name": "first raw community comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n🏆 You have been featured @%%USERNAME%%, your first feature in @snap_%%PAGENAME%% 🏆\n😍 Just an amazing shot. 😍\n💕📣 Thanks for tagging this great picture with #raw_community! Please consider tagging with #snap_%%PAGENAME%% for more chances at a feature. 📣💕\n"
-        },
-        {
           "name": "original post",
-          "template": "✨ Featured on @snap_%%PAGENAME%% ✨\na page out of the @snap_kingdom at the @snap_community"
-        },
-        {
-          "name": "raw comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n🏆 You have been featured @%%USERNAME%% 🏆\n😍 Just an amazing shot. 😍\n💕📣 Thanks for tagging this great picture with #raw_%%PAGENAME%%! Please consider tagging with #snap_%%PAGENAME%% for more chances at a feature. 📣💕\n"
-        },
-        {
-          "name": "raw community comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n🏆 You have been featured @%%USERNAME%% 🏆\n😍 Just an amazing shot. 😍\n💕📣 Thanks for tagging this great picture with #raw_community! Please consider tagging with #snap_%%PAGENAME%% for more chances at a feature. 📣💕\n"
-        }
-      ]
-    },
-    {
-      "name": "snap:longexposure_featuredartist",
-      "templates": [
-        {
-          "name": "comment",
-          "template": "✨✨ SPECIAL CONGRATULATIONS!!! ✨✨\n🏆 You have been featured @%%USERNAME%% as the monthly featured artist 🏆\n⏱️ We chose this photo as an incredible example of your amazing long exposure work ⏱️\n[[PERSONALIZED MESSAGE]]\n💕 📣 Thanks for tagging this great picture with #snap_%%PAGENAME%% 📣 💕\n"
-        },
-        {
-          "name": "feature",
-          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n⏱️ Monthly Featured Long Exposure Artist ⏱️\n     [[MONTH]] [[YEAR]]\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSpecially Selected by @snap_%%PAGENAME%% followers\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#longexposurephotography #specialfeature\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
-        },
-        {
-          "name": "original post",
-          "template": "✨ Featured on @snap_%%PAGENAME%% ✨\na page out of the @snap_kingdom at the @snap_community\nfor the monthly featured artist"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1386,19 +1221,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "Congratulations @%%USERNAME%% on your feature and this fabulous image 🎉👏🏻\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#macro #macrophotography #closeup #closeupphotography #macrophotographer #veromacro #focus #details\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "@%%USERNAME%% ✨🌟🌟✨      CONGRATULATIONS on your first feature with @snap_%%PAGENAME%%, [[USER'S FIRST NAME]]! ✨🏆✨ Thank you for sharing your wonderful image, and please continue tagging us at #snap_%%PAGENAME%% for the chance of more features! 🌟👍🙏😻🌟\n"
-        },
-        {
           "name": "original post",
-          "template": "🌟🏆 Featured %%MEMBERLEVEL%% 🏆🌟"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1407,23 +1238,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🌟Congratulations! You have been featured  @%%USERNAME%% 👏\n🙏Thank you for tagging and sharing your image with the Snap Community 💫\n💕Keep tagging #snap_%%PAGENAME%% for a chance of more features 🙏\n🙏 We are looking forward to see more of your wonderful images 🙏\n"
-        },
-        {
-          "name": "community comment",
-          "template": "🌟Congratulations! You have been featured  @%%USERNAME%% 👏\n💕Thank you for tagging and sharing your image with the Snap Community 💫🙏\n🏆Consider visiting and follow our gallery @snap_%%PAGENAME%% and using our page hashtag #snap_%%PAGENAME%% in your future posts for a chance of more features 👍💕🌟\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%% and #snap_africa\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#middleeast #africa #world #travel #tourism #photography #picoftheday\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "🏆Congratulations! You have been featured @%%USERNAME%%🏆\n😍Just an amazing shot. ✨✨\n🏆Congratulations on your first feature here at the @snap_%%PAGENAME%%💫\n💕Thanks for tagging this great picture with #snap_%%PAGENAME%% 🙏\n🏆Keep tagging #snap_%%PAGENAME%% for a chance of more features.💕\n"
-        },
-        {
           "name": "original post",
-          "template": "✨✨✨ FEATURED on @snap_%%PAGENAME%% ✨✨✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1432,7 +1255,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "⭐📸 ❤️  Congratulations ❤️📸 ⭐ on your extraordinary feature ⭐ Thank you for tagging #snap_%%PAGENAME%% ⭐\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -1440,7 +1263,7 @@
         },
         {
           "name": "original post",
-          "template": "⭐ 📸 ❤️ Featured  ❤️📸 ⭐ Congratulations !!!  ⭐ Thank you for tagging #snap_%%PAGENAME%% ⭐"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1449,19 +1272,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "Congratulations on this stunning feature @%%USERNAME%%  👏. Thank you for sharing it with us @snap_%%PAGENAME%%  ✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#mobile #mobilephotography #iphonography\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "✨✨Congratulations [[USER'S FIRST NAME]] @%%USERNAME%% on your first feature with @snap_%%PAGENAME%% today! ✨✨. Love this amazing shot ! Thanks for sharing your photo with us and tagging @snap_%%PAGENAME%%  ✨📱✨\n"
-        },
-        {
           "name": "original post",
-          "template": "✨📱✨Congratulations!\nFEATURED %%MEMBERLEVEL%% ✨📱✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1470,19 +1289,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🏆 Congratulations on your %%MEMBERLEVEL%% feature, @%%USERNAME%%\nIt’s wonderful to see your photo in our gallery! Thanks for sharing it with us and Keep Tagging: #snap_%%PAGENAME%%\nWe look forward to seeing more of your work!!\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#light_and_colour #moody_captures #mood #the_gallery_of_magic #moodygrams #natures_moods #moody_tones #moody\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "🏆 Congratulations on your %%MEMBERLEVEL%% first feature on @snap_%%PAGENAME%%, @%%USERNAME%%\nIt’s wonderful to see your photo in our gallery! Thanks for sharing it with us and Keep Tagging: #snap_%%PAGENAME%%\nWe look forward to seeing more of your work!!\n"
-        },
-        {
           "name": "original post",
-          "template": "✨Featured %%MEMBERLEVEL%% ✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1491,7 +1306,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨Congratulations on your feature @%%USERNAME%% ! Thanks for tagging and supporting our SNAP community⛰️💫\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -1499,7 +1314,7 @@
         },
         {
           "name": "original post",
-          "template": "✨ FEATURED on @snap_%%PAGENAME%% ⛰️💫 ✨\n"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1508,7 +1323,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨💫✨Congratulations on your Snap Nightshots Feature @%%USERNAME%% 🎊. Keep tagging #snap_%%PAGENAME%% and sharing your amazing photos with us 🧡!\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -1516,7 +1331,7 @@
         },
         {
           "name": "original post",
-          "template": "✨Congratulations, you’ve been featured on @snap_%%PAGENAME%% ! ✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1525,19 +1340,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n🏆 You have been featured [[NAME]] @%%USERNAME%% 🏆\n😍 Just an amazing shot! 😍\n💕📣 Thanks for tagging this great picture with #snap_%%PAGENAME%% 📣💕\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n#[[COUNTRY]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#nordic\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n🏆 You have been featured [[NAME]] @%%USERNAME%%, your first feature in @snap_%%PAGENAME%% 🏆\n😍 Just an amazing shot! 😍\n💕📣 Thanks for tagging this great picture with #snap_%%PAGENAME%% 📣💕\n"
-        },
-        {
           "name": "original post",
-          "template": "✨🏆 FEATURED on Snap Nordic🏆✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1546,19 +1357,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🌟🔢 Congratulations on landing your latest #snap_%%PAGENAME%% feature, @%%USERNAME%% ! 🏆 Your photo truly adds a unique dimension to our gallery. Keep on Tagging: #snap_%%PAGENAME%% for more chances to be featured ! 💯🎇✨🎉🎊\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#numbers #math #mathart #mathematics #numberart #pi #algebra #geometry #calculus #trigonometry #abundance #largegroupofobjects #inarow #arrangement\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "🌟🔢 Congratulations on landing your 1st #snap_%%PAGENAME%% feature, @%%USERNAME%% ! 🏆 Your photo truly adds a unique dimension to our gallery. Keep on tagging: #snap_%%PAGENAME%% for more chances to be featured !  💯🎇✨🎉🎊\n"
-        },
-        {
           "name": "original post",
-          "template": "🔢💫✨🎉 FEATURED 💫✨🎉💯\n"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1567,7 +1374,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "💥🏆🔢 Heartfelt congratulations on you AI Feature 💥🏆🔢  @%%USERNAME%% !\nThank you for sharing your wonderful AI artwork with us.\n🙏🏼 Please keep tagging #snap_%%PAGENAME%%_ai for a chance of more features!\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%_ai✨✨\n"
         },
         {
           "name": "feature",
@@ -1575,7 +1382,7 @@
         },
         {
           "name": "original post",
-          "template": "🔢💫✨ FEATURED WITH #snap_%%PAGENAME%%_ai 💫✨🔢"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%%_ai ✨"
         }
       ]
     },
@@ -1584,19 +1391,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🎉 @%%USERNAME%% 👏💕💫 A wonderful portrait. Congratulations on your feature with @snap_%%PAGENAME%% today. Thank you for using our hashtag. Keep tagging #snap_%%PAGENAME%% or #snap_portrait for a chance of more features. 👍💙🎉\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#portraits_community #great_captures_people #portrait_captures #pursuitofportraits #portraitgames #postthepeople #portraitvision #theportraitpr0ject #portraitphotography\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "🎉 @%%USERNAME%% 👏💕💫 A wonderful portrait. Congratulations on your first feature with @snap_%%PAGENAME%% today, and welcome to our gallery. Thank you for using our hashtag. Keep tagging #snap_%%PAGENAME%% or #snap_portrait for a chance of more features. 👍💙🎉\n"
-        },
-        {
           "name": "original post",
-          "template": "💫 %%MEMBERLEVEL%% feature 💫"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1605,7 +1408,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🐾⭐️Congratulations @%%USERNAME%% on your fantastic feature! [[PERSONALIZED MESSAGE]] ⭐️❄️ Thank you for tagging this great photo with #snap_%%PAGENAME%% 🙏🎉🐶\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -1613,7 +1416,7 @@
         },
         {
           "name": "original post",
-          "template": "🐾⭐️Featured on @snap_%%PAGENAME%% ⭐️🐾"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1622,7 +1425,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n🏆 You have been featured. @%%USERNAME%% 🏆\n😍 Just an amazing shot.\n💕 🎉 Thanks for tagging this great picture with #snap_%%PAGENAME%% 🙏 😃 💜\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -1630,7 +1433,7 @@
         },
         {
           "name": "original post",
-          "template": "✨ Featured on @snap_%%PAGENAME%% ✨ a page out of @snap_kingdom at the @snap_community"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1639,19 +1442,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n@%%USERNAME%%: You have been featured as part of the @snap_community\n[[PERSONALIZED MESSAGE]]\nThank you for tagging this great photo with #snap_%%PAGENAME%%\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#reflections #reflectionphoto #reflectionperfection #reflection_addict #mirror #reflections_in_water #reflection_landscape #reflection_lake #reflection2025\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "✨✨CONGRATULATIONS!!! ✨\n[[USER'S FIRST NAME]] @%%USERNAME%%! Welcome to @snap_%%PAGENAME%%, Big Congratulations on a perfect reflection as your first feature in this gallery!\n[[PERSONALIZED MESSAGE]]\nPlease continue sharing your beautiful photography with us using #snap_%%PAGENAME%%!\n"
-        },
-        {
           "name": "original post",
-          "template": "✨ Featured by @snap_%%PAGENAME%% ✨\na page out of the @snap_kingdom at the @snap_community"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1660,19 +1459,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n@%%USERNAME%%: You have been featured as part of the Reflections Midweek Monochrome on @snap_%%PAGENAME%%, as part of the @snap_community\n[[PERSONALIZED MESSAGE]]\nPlease continue sharing your beautiful reflection photography with us using #snap_%%PAGENAME%%_bnw\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%_bnw✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%_bnw\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\nFor Reflections Midweek Monochrome\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#reflections #reflectionphoto #reflection_addict #mirror #reflections_in_water #reflection_landscape #reflection2025\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨\n@%%USERNAME%%! Welcome to @snap_%%PAGENAME%%, Big Congratulations on your first feature in our Reflections Midweek Monochrome\n[[PERSONALIZED MESSAGE]]\nPlease continue sharing your beautiful reflection photography with us using #snap_%%PAGENAME%%_bnw\n"
-        },
-        {
           "name": "original post",
-          "template": "✨ Featured by @snap_%%PAGENAME%% ✨\n    Features BNW every Wednesday\n    ✨ #snap_%%PAGENAME%%_bnw ✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%%_bnw ✨"
         }
       ]
     },
@@ -1681,19 +1476,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🌼🌷Congratulations🌼 on your beautiful feature @%%USERNAME%% 👏 . [[PERSONALIZED MESSAGE]]\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#spring #ilovespring #springtime #springvibes #summer #summertime #summerlove #autumn #fall #instafall #autumnweather #winter #winterwonderland #wintertime #wintertime\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "🌻🍁Congratulations🌷🌼 @%%USERNAME%% on your first feature here at @snap_%%PAGENAME%% 🌟👏 Please visit @snap_kingdom for all our Pages to follow and tag 🌟\n"
-        },
-        {
           "name": "original post",
-          "template": "🌼🌷Featured on @snap_%%PAGENAME%% 🌻🍁"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1702,7 +1493,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "Congratulations @%%USERNAME%% ✨✨✨ \nThank you for sharing your image and tagging us here @snap_%%PAGENAME%% 👏👏👏 \nYou can check all the official tags on @snap_kingdom\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -1710,7 +1501,7 @@
         },
         {
           "name": "original post",
-          "template": "⭐️ Featured on @snap_%%PAGENAME%% ⭐\n"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1719,19 +1510,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS!!! ✨✨\n@%%USERNAME%%: You have been featured as part of the @snap_community\n[[PERSONALIZED MESSAGE]]\nThank you for tagging this great photo with #snap_%%PAGENAME%%\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#skylover #skyphotography #sky #sunset #sunrise #clouds #skyscapes #skiesofvero #sunset_madness #sky_perfection\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "✨✨CONGRATULATIONS!!! ✨\n[[USER'S FIRST NAME]] @%%USERNAME%%! Welcome to @snap_%%PAGENAME%%, Big Congratulations on a perfect sky as your first feature in this gallery!\n[[PERSONALIZED MESSAGE]]\nPlease continue sharing your beautiful photography with us using #snap_%%PAGENAME%%!\n"
-        },
-        {
           "name": "original post",
-          "template": "✨ Featured by @snap_%%PAGENAME%% ✨\na page out of the @snap_kingdom at the @snap_community"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1740,19 +1527,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "👏🎉 @%%USERNAME%% ✨ [[PERSONALIZED MESSAGE]] Congratulations on your feature with @snap_%%PAGENAME%% today, and thank you for using our hashtag. Keep tagging #snap_%%PAGENAME%% or #snap_street_art for a chance of more features. 👍💙🎉\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#nonstopstreet #urbanstreetphotogallery #hcsc_street #streetmagazines #dreaminstreets #lensonstreets #life_is_street #urban_shutter #cityunit #street_art_community\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "👏🎉 @%%USERNAME%% ⭐️ [[PERSONALIZED MESSAGE]] Congratulations on your first feature with @snap_%%PAGENAME%% today, and a very warm welcome to our gallery. Thank you for tagging us in this brilliant capture. Keep tagging #snap_%%PAGENAME%% or #snap_street_art for a chance of more features. 👍💙🎉\n"
-        },
-        {
           "name": "original post",
-          "template": "🎉 FEATURED 🎉"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1761,19 +1544,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "⭐️🎊⭐️ Congratulations on your Snap Symmetry Feature @%%USERNAME%% 🎊. [[PERSONALIZE MESSAGE]] 💫⭐️💫Thank you for tagging your amazing photos with #snap_%%PAGENAME%%.\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#symmetry #symmetric #symmetrical #architecture #perspective #pattern\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "⭐️🎊⭐️ Congratulations on your First Snap Symmetry Feature @%%USERNAME%% 🎊. [[PERSONALIZE MESSAGE]] 💫⭐️💫Thank you for tagging your amazing photos with #snap_%%PAGENAME%%.\n"
-        },
-        {
           "name": "original post",
-          "template": "✨ Featured %%MEMBERLEVEL%% ✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1782,7 +1561,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🎊Excellent snap! Congrats @cecileaki your shot has been featured on snap_%%PAGENAME%%👏👏👏 thank you for tagging\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -1790,7 +1569,7 @@
         },
         {
           "name": "original post",
-          "template": "FEATURED👊"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1799,19 +1578,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🌟📸 [[PERSONALIZED INTRO]], [[USER'S FIRST NAME]]! [[PERSONALIZED MESSAGE]] @%%USERNAME%%  👏✨📸\nHuge congratulations on your beautiful feature with @snap_%%PAGENAME%% 👏📸🌟\nThank you very much for sharing your wonderful photography with #snap_%%PAGENAME%%! 🌟📸\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#frame #photoart #fineartzone #petal #plant #botany #repetition #fullframe #dof #closeup #snap_flowers #outdoors #blossom #leaf #freshness #macrophotography\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "📸🌟 Huge congratulations on your wonderful first feature with @snap_%%PAGENAME%%, [[USER'S FIRST NAME]]! @%%USERNAME%%  👏✨📸\nThank you very much for sharing your innovative and creative portrait art with our community! Wonderful mood and storytelling! 👏📸 ✨\nYour support is much appreciated! 🌟📸\n"
-        },
-        {
           "name": "original post",
-          "template": "🌟 Featured on @snap_%%PAGENAME%% 👏🌟"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1820,23 +1595,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🏆Congratulations You have been featured @%%USERNAME%% 💫\n😍 Just an amazing shot. ✨✨\n💕 Thanks for tagging this great picture with #snap_%%PAGENAME%% 💫 🙏\n🏆Keep tagging #snap_%%PAGENAME%% for a chance of more features. 👍💕🌟\n"
-        },
-        {
-          "name": "community comment",
-          "template": "🏆Congratulations You have been featured @%%USERNAME%% 💫\n😍 Just an amazing shot. ✨✨\n💕Thank you for tagging and sharing your image with the Snap Community 💫🙏\n🏆Consider visiting and follow our gallery @snap_%%PAGENAME%% and using our page hashtag #snap_%%PAGENAME%% in your future posts for a chance of more features👍💕🌟\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#toy #toys #toyphotography #toycollector #toycommunity #toypics #marvel #starwars\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "🏆Congratulations! You have been featured @%%USERNAME%%🏆\n😍Just an amazing shot. ✨✨\n🏆Congratulations on your first feature here at the @snap_%%PAGENAME%%💫\n💕Thanks for tagging this great picture with #snap_%%PAGENAME%% 🙏\n🏆Keep tagging #snap_%%PAGENAME%% for a chance of more features.💕\n"
-        },
-        {
           "name": "original post",
-          "template": "✨✨✨FEATURED on @snap_%%PAGENAME%% ✨✨✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1845,7 +1612,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨ Congratulations on your feature with Snap @{artist username goes here}\n🌟💫🌟 Keep tagging your wonderful pictures with #snap_{page name goes here} 😊\n"
+          "template": "✨✨ CONGRATULATIONS @{artist username goes here}✨✨\n\n {personalized message goes here}\n\n✨✨Thank you for tagging #snap_{page name goes here}✨✨\n"
         },
         {
           "name": "feature",
@@ -1853,7 +1620,7 @@
         },
         {
           "name": "original post",
-          "template": "✨✨ FEATURED ✨✨\n"
+          "template": " {personalized message goes here}\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_{page name goes here} ✨"
         }
       ]
     },
@@ -1862,7 +1629,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨ CONGRATULATIONS!!! ✨✨\n🏆 You have been featured. @%%USERNAME%% 🏆\n😍 Just an amazing shot .\n💕 🎉 Thanks for tagging this great picture with #snap_%%PAGENAME%%   🙏 😃 💜\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -1870,7 +1637,7 @@
         },
         {
           "name": "original post",
-          "template": "✨ This wonderful transportation photo was featured on @snap_transports ✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1879,19 +1646,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "💫💫CONGRATULATIONS [[USER'S FIRST NAMR]] @%%USERNAME%% your feature with #snap_%%PAGENAME%% today!!!.🏆\n😍 Thank you for sharing this, [[PERSONALIZED MESSAGE]] 👌👌👌👌\nKeep tagging #snap_%%PAGENAME%% for a chance of more features💫💫\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#uk #britain #ukshots #ukdaily #1ukshot #bestpicsuk #topuk #snapuk #britain_outdoors #bbcbritain #visitbritain #unitedkingdom #brilliantbritain #map_of_europe\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "💫💫CONGRATULATIONS [[USER'S FIRST NAME]] @%%USERNAME%% your first feature with #snap_%%PAGENAME%% today!!!.🏆\n😍 Thank you for sharing this, [[PERSONALIZED MESSAGE]] 👌👌👌👌\nKeep tagging #snap_%%PAGENAME%% for a chance of more features💫💫\n"
-        },
-        {
           "name": "original post",
-          "template": "💫💫 Featured, congratulations [[USER'S FIRST NAME]] 💫💫\n"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1900,7 +1663,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🏆 Congratulations on your %%MEMBERLEVEL%% feature, @%%USERNAME%%\nIt’s wonderful to see your photo in our gallery! Thanks for sharing it with us and Keep Tagging: #snap_%%PAGENAME%%\nWe look forward to seeing more of your work!! ❤️🤍💙\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -1908,7 +1671,7 @@
         },
         {
           "name": "original post",
-          "template": "✨Featured %%MEMBERLEVEL%% ❤️"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1917,7 +1680,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "🎊🎆🎉 Congratulations on your feature with Snap Waters @%%USERNAME%% 🎉🎆🎊  [[PERSONALIZED MESSAGE]] 🌟💫🌟 Keep tagging your wonderful pictures with #snap_%%PAGENAME%%😊\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -1925,7 +1688,7 @@
         },
         {
           "name": "original post",
-          "template": "✨✨FEATURED ON @snap_%%PAGENAME%% ✨✨ Congratulations ✨\n"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1934,19 +1697,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨💫✨Congratulations on your Snap Wildlife Feature @%%USERNAME%% 🎊. Keep tagging and sharing your amazing photos with us! 🧡\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#snap #snap_community #vero #verofamily #verofriends #photography #wildlife #animalwildlife #wildlife_photography #nature #lensculture\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "🎊 ⭐️ 🎊 Congratulations on your first feature at Snap Wildlife @%%USERNAME%% 🎊 Beautiful photo 💫⭐️💫keep on tagging your amazing images with #snap_%%PAGENAME%%🧡\n"
-        },
-        {
           "name": "original post",
-          "template": "✨🏆 FEATURED on Snap Wildlife🏆✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1955,7 +1714,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "⭐️🌎💫  Congratulations on your wonderful feature 🌎🌍🌏 Thank you for sharing your wonderful art with us and for tagging #snap_%%PAGENAME%%  💫🌎⭐\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
@@ -1963,7 +1722,7 @@
         },
         {
           "name": "original post",
-          "template": "🌎✨ Featured 🌎🌍🌏 Congratulations and thank you for sharing your wonderful art with us and for tagging #snap_%%PAGENAME%% !!! 💫🌎⭐"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     },
@@ -1972,19 +1731,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "👍💫🌷 @%%USERNAME%% ✨[[PERSONALIZED MESSAGE]] Congratulations on your feature with @snap_%%PAGENAME%% today. Keep tagging us for a chance of more features.👏💛🎉❤️\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
         },
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%% and #snap_books\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#poetryhive #bleedink #spilledthoughts #wordsmith #drunkpoetsociety #poetrysociety #poetryisart #writersnetwork #signs #motivationalquotes #poetry\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
-          "name": "first comment",
-          "template": "👍💫🌷 @%%USERNAME%% ✨[[PERSONALIZED MESSAGE]] Congratulations on your first feature with @snap_%%PAGENAME%% today, and a warm welcome to our gallery. Thank you for using our hashtag #snap_%%PAGENAME%%. Keep tagging us for a chance of more features.👏💛🎉❤️\n"
-        },
-        {
           "name": "original post",
-          "template": "💫 FEATURED %%MEMBERLEVEL%% 💫\n🍾🎉C O N G R A T U L A T I O N S !! 🎉🍾"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
         }
       ]
     }
