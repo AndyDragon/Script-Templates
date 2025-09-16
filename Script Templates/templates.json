@@ -405,7 +405,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -422,7 +422,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -439,7 +439,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%_ai✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%_ai ✨✨\n"
         },
         {
           "name": "feature",
@@ -456,7 +456,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -473,7 +473,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -490,7 +490,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -507,7 +507,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -524,7 +524,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -541,7 +541,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -558,7 +558,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -575,7 +575,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -592,7 +592,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -609,7 +609,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -626,7 +626,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -643,7 +643,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -660,7 +660,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -677,7 +677,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -694,7 +694,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -711,7 +711,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -728,7 +728,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -745,7 +745,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -762,7 +762,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -779,7 +779,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -796,7 +796,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -813,7 +813,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -830,7 +830,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -847,7 +847,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -864,7 +864,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -881,7 +881,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -898,7 +898,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -915,7 +915,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -932,7 +932,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -949,7 +949,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -966,7 +966,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -983,7 +983,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1000,7 +1000,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1017,7 +1017,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1034,7 +1034,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1051,7 +1051,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1068,7 +1068,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1085,7 +1085,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1102,7 +1102,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1119,7 +1119,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1136,7 +1136,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1153,7 +1153,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1170,15 +1170,15 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% and welcome to the Snap Landscape gallery! ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\nPlease keep tagging us in your photos using #snap_landscape for the chance of more features🌟🏞🌟🏞🌟🏞🌟\n"
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%% and #snap_drone\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n📍 [[LOCATION]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#landscape #landscape_photography #vero_landscapes #landscape_addict #snapcommunityonvero #beautiflulview\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\n📍 [[LOCATION]]\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#landscape #landscape_photography #vero_landscapes #landscape_addict #snapcommunityonvero #beautiflulview\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
-          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS@ %%USERNAME%% ✨✨\nFeatured by @%%PAGENAME%% 🌟🏞🌟\n"
         }
       ]
     },
@@ -1187,7 +1187,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1204,7 +1204,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1221,7 +1221,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1238,7 +1238,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1255,7 +1255,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1272,7 +1272,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1289,7 +1289,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1306,7 +1306,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1323,7 +1323,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1340,7 +1340,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1357,7 +1357,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1374,7 +1374,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%_ai✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%_ai ✨✨\n"
         },
         {
           "name": "feature",
@@ -1391,7 +1391,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1408,7 +1408,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1425,7 +1425,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1442,7 +1442,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1459,7 +1459,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%_bnw✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%_bnw✨✨\n"
         },
         {
           "name": "feature",
@@ -1476,7 +1476,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1493,7 +1493,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1510,7 +1510,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1527,7 +1527,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1544,7 +1544,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1561,7 +1561,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1578,7 +1578,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1595,7 +1595,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1629,7 +1629,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1646,7 +1646,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1663,7 +1663,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS on your feature [[NAME]] @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thanks for sharing it and keep tagging #snap_%%PAGENAME%% for all your US themed images. We look forward to seeing more of your work ❤️🤍💙✨✨\n"
         },
         {
           "name": "feature",
@@ -1671,7 +1671,7 @@
         },
         {
           "name": "original post",
-          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
+          "template": "✨✨ CONGRATULATIONS on your first feature [[NAME]] @%%USERNAME%% on %%PAGENAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thanks for sharing it and keep tagging #snap_%%PAGENAME%% for all your US themed images. We look forward to seeing more of your work ❤️🤍💙✨✨"
         }
       ]
     },
@@ -1680,7 +1680,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1697,7 +1697,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1714,7 +1714,7 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
@@ -1731,11 +1731,11 @@
       "templates": [
         {
           "name": "comment",
-          "template": "✨✨ CONGRATULATIONS @%%USERNAME%%✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%% ✨✨\n"
         },
         {
           "name": "feature",
-          "template": "#snap_%%PAGENAME%% and #snap_books\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#poetryhive #bleedink #spilledthoughts #wordsmith #drunkpoetsociety #poetrysociety #poetryisart #writersnetwork #signs #motivationalquotes #poetry\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#poetryhive #bleedink #spilledthoughts #wordsmith #drunkpoetsociety #poetrysociety #poetryisart #writersnetwork #signs #motivationalquotes #poetry\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
