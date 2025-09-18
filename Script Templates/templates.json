@@ -1195,7 +1195,7 @@
         },
         {
           "name": "original post",
-          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS@ %%USERNAME%% ✨✨\nFeatured by @%%PAGENAME%% 🌟🏞🌟\n"
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\nFeatured by @snap_%%PAGENAME%% 🌟🏞🌟"
         }
       ]
     },
