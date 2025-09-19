@@ -1671,7 +1671,7 @@
         },
         {
           "name": "original post",
-          "template": "✨✨ CONGRATULATIONS on your first feature [[NAME]] @%%USERNAME%% on %%PAGENAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thanks for sharing it and keep tagging #snap_%%PAGENAME%% for all your US themed images. We look forward to seeing more of your work ❤️🤍💙✨✨"
+          "template": "✨FEATURED 💛\n[[PERSONALIZED MESSAGE]]\n\nCONGRATULATIONS 💥💫\n"
         }
       ]
     },
