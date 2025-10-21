@@ -3,6 +3,5 @@
     "page": "birdworld",
     "title": "Bird World",
     "hashtag": "birdworld",
-    "tagOnly": true,
-    "defunctPage": true
+    "tagOnly": true
 }
