@@ -1336,6 +1336,23 @@
       ]
     },
     {
+      "name": "snap:newartist",
+      "templates": [
+        {
+          "name": "comment",
+          "template": "✨Congratulations again on your feature, [[USER FIRST NAME]].\n[[PERSONALIZED MESSAGE]]\nThank you for sharing it and keep tagging #snap_%%PAGENAME%% !!\n✨We look forward to seeing more of your work 👏👏👏 💯\n"
+        },
+        {
+          "name": "feature",
+          "template": "#snap_%%PAGENAME%%\n.\n🌟 Featured Artist: @%%USERNAME%%\n✨ C O N G R A T U L A T I O N S ✨\n_________________________________\n.\nSnap New Artist Page is a unique community-driven initiative — an opportunity for an artist’s photography to be featured not only for its merit, but through the appreciation and recognition of the community as a whole.\n_______________________________\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow.\n.\nVisit our Website:  www.rawkingdomarts.com\n.\n#vero #verofriends #verophotography #verocommunity #newartist #supportcreators #photographycommunity #independentartists #photographylovers #artistsonvero #newphotographers #snapcommunity #visualstorytelling #snap_community\n.\nFor internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+        },
+        {
+          "name": "original post",
+          "template": " ✨FEATURED\n[[PERSONALIZED MESSAGE]]\nCONGRATULATIONS 💥💫"
+        }
+      ]
+    },
+    {
       "name": "snap:nightshots",
       "templates": [
         {
@@ -1430,6 +1447,23 @@
         {
           "name": "feature",
           "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#picoftheday #photography #night_addict #createexplore #worldphotography #bevisuallyinspired #scenic_nature #reflection #mountainrange #nature #landscape #amazingshot\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
+        },
+        {
+          "name": "original post",
+          "template": " [[PERSONALIZED MESSAGE]]\n\n✨✨ CONGRATULATIONS!!! ✨✨\n✨ Featured using #snap_%%PAGENAME%% ✨"
+        }
+      ]
+    },
+    {
+      "name": "snap:process",
+      "templates": [
+        {
+          "name": "comment",
+          "template": "✨✨ CONGRATULATIONS @%%USERNAME%% ✨✨\n\n [[PERSONALIZED MESSAGE]]\n\n✨✨Thank you for tagging #snap_%%PAGENAME%%✨✨\n"
+        },
+        {
+          "name": "feature",
+          "template": "#snap_%%PAGENAME%%\n.\n Featured %%MEMBERLEVEL%% @%%USERNAME%%\n ✨ C O N G R A T U L A T I O N S ✨\n__________________________________\n.\nSelected by Page %%STAFFLEVEL%% :\n%%YOURFIRSTNAME%% : @%%YOURNAME%%\n.\nFollow vero.co/snap_kingdom for more pages to tag and follow\nVisit our Website:  www.rawkingdomarts.com\n.\n✨ Membership Levels ✨\n5  ANY Page Feature - Member\n15 ANY Page Feature - VIP\n15 Different Page Features - VIP Gold\n35 Different Page Features - Platinum\n55 Different Page Features - Elite\n75 Different Page Features - Hall of Fame\nDiamond - by Invitation Only\n.\nContact vero.co/snap_community_member\nFor your membership questions and level validations\n.\n#snap_community #vero #verofamily #verofriends #edit #editcreatives #overlayimage #bokeh_addicts #bokeh_and_blur #filter #colorize #colorchange #manipulation #overlay #moody_art #glitch #double_exposure #blur\n.\n For internal use only!\n#snap_%%PAGENAME%%_%%USERNAME%%\n#snap_featured_%%USERNAME%%\n.\n.\n"
         },
         {
           "name": "original post",
